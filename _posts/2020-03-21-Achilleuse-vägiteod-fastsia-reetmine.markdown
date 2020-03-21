@@ -2,7 +2,7 @@
 layout: post
 title:  "Achilleuse vägiteod, fastsia reetmine"
 date:   2020-03-21 21:24:14 +0200
-categories: jekyll update
+categories: jooks masinad
 ---
 ## Achilleuse vägiteod, fastsia reetmine
 Olen varemaltki võistlusspordi suhtes kriitikat blogistanud. Ometi tean omast jalast, et üle oma Varju ei hüppa, nagu ütlenuks kunagine sisemaailma-meister C. G. Jung. Sportmängud, hiilgagu pikamaajooks pealegi monastiliste võimaluste säras, on eeskätt agonaalsed. See hambad risti poisiklutt, kes männijuurikaid pidi koolikrossidel medaleid jahtis, on minuski siiani sees. Ja hea on, et on.
