@@ -1,5 +1,4 @@
 ---
-permalink: /vaporfly.md
 layout: post
 title:  "Achilleuse vägiteod, fastsia reetmine"
 date:   2020-03-21 21:24:14 +0200
