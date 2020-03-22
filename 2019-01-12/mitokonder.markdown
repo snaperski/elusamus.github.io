@@ -106,8 +106,7 @@ otse karjudes hamba all.
 [^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud
 mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
 
-[^2]: Kr mito=’lõim’, chondrion=’graanul, tera’. Kobakamas mõõtmes ilmutus kvantmehaanika laine-osakese
-kaksainsusest - kui molekulaarpoeetiliselt fantaseerida.
+[^2]: Kr mito=’lõim’, chondrion=’graanul, tera’. Kobakamas mõõtmes ilmutus kvantmehaanika laine-osakese kaksainsusest - kui molekulaarpoeetiliselt fantaseerida.
 
 [^3]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5474251/> . Taimedel moodustuvad ka plastiididest rakuorganellide vahel sarnased stroomuliteks nimetatavad õõnsad torukesed.
 
