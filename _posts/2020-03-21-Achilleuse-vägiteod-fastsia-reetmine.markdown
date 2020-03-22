@@ -20,7 +20,7 @@ Olgu ettevalmistus läbistatud kuitahes tehnoloogilisest taastumisest ja nutikas
 Mõiste “tehnoloogiline doping” oli varemalt suunatud teistsuguste spordialade nagu rattasport suunas - tõepoolest, mida nii lihtsa tegevuse kui jooksmise korral ikka vigurdada saab?  
 Eelmise aasta oktoobris aga kui Eliud Kipchoge vallutas vägevasti 2 tunni piiri maratonis, kirjutas Ryan Hall: 
 
-> Kogu austuse juures Kipchoge vastu - kes on sõltumata jooksusussidest, mida ta kasutab, kõigi aegade parim maratoonar - pean ütlema, et kui firma paneb jalanõude alla mitu süsinikkiust plaati ja jätab nende vahele puhvrid, pole see enam jooksususs. See on ju vedru ja selge mehaaniline eelis kõigile, kes nende sussidega jooksevad. <sup>[1](#myfootnote1)</sup>
+> Kogu austuse juures Kipchoge vastu - kes on sõltumata jooksusussidest, mida ta kasutab, kõigi aegade parim maratoonar - pean ütlema, et kui firma paneb jalanõude alla mitu süsinikkiust plaati ja jätab nende vahele puhvrid, pole see enam jooksususs. See on ju vedru ja selge mehaaniline eelis kõigile, kes nende sussidega jooksevad [^1]. 
 
 Kui ma selle aasta alguses vedrutossude teema teabmiks FB seinal üles võtsin, sain tuttavalt jooksuhundilt kommentaari: “Raivo, nagu sa ise tead, ega suss üksi ei jookse, ikka peab trenni ka tegema”. Huvitaval kombel vastas üsna samamoodi ka kriitikanoolte alla sattunud Kipchoge ise: 
 
@@ -46,4 +46,4 @@ Endine briti jooksutäht Mara Yamauchi on juba nentinud, et ausa mänguga on asi
 Selle suve soovitus kärsitutele uuendusmeelsetele: enne kui endale internetist uued isiklikud rekordid tellite, proovige toetuda veelgi suuremal määral enesest leitavale tahtejõule, karastamaks vedruvägevamaks iseenda sidekude (selmet soetada väliseid proteese), st tehke rohkem plüomeetrilisi harjutusi, näiteks. 
 Ma ei pea ennast anakronistlikuks ludiidiks - innoveerida tuleb seal, kus see asja olemust tsirkuseks ei moonda. Kehakultuur on kultuuriväljal niigi pidevas mõnitusseisundis. Jooksmise võlu peitub lihtsuses, mis läheb süvenevalt kaotsi kui toimub katkestuslik ärapööre teivashüppe-laadseks tehniliseks alaks (kus minnakse peale kas kõvema või pehme teibaga). 
 
-#### <a name="myfootnote1">1</a>:https://sport.delfi.ee/news/kergejoustik/maailm/karm-suudistus-inimvoimete-piire-nihutanud-keenia-jooksutalent-kasutas-tehnoloogilist-dopingut?id=87801395 
+[^1]: <https://sport.delfi.ee/news/kergejoustik/maailm/karm-suudistus-inimvoimete-piire-nihutanud-keenia-jooksutalent-kasutas-tehnoloogilist-dopingut?id=87801395> 
