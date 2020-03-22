@@ -7,12 +7,12 @@ permalink: /about/
 
 Ärkan üles. Keel peksleb suukoopas kaootilistes spasmides. Võtan kinni ja lõikan ära. Vaatan oma keeletõelust näppude vahel ja mõtlen: mida veel on mul kui inimesel jäänud öelda inimestele? Ilmselt suurt ei midagi. Võtan siiski keele hammaste tagant välja ja: AUMMMMM! Ehmun isegi, kuidas vibratsioon penetreerub kõikjale ja kõigini. Olen ommistanud instrumendi, millega südamesse jõuda. Minu südamel on aga jalad all.
 
-###Jooksja on helilooja. 
+### Jooksja on helilooja.
 Lihased on tahteorganid. Kogu liha heliseb kui vaimujalad oma tugevust ilmutavad. Kuulakem mu jalgu, kuidas nad olemise rütmi sisse jooksevad ja sellesse salamisi oma noodilehed sokutavad. 
 Vaadakem, seal on mu reie nelipealihas, mis mis sirutab jala ettepoole, missugune avang paneb paika hääleulatuse. Seal mu sääre poolt rihitud labajalg langeb metsarajale, pöiavõlv kummub männiokaste kohale kõlakojaks ja siis läheb lahti. Iga lihaskimp lõõritab iseoma laulu vastavalt pikkusele ja pingestatusele. Hetkel, mil pöia võlvkaar on leidnud tasakaalupunkti, heitmaks keha ettepoole, kumisevad juba fastsiaalsesse trummikilesse mässitud säärelihased koos reie nelipealihatega igaüks ise suunas, luues ruumimõõtmed - *spandashakti*, mis alustab maailma loomist. 
 Jalgade liikumise helijälg pole montoonne. Vaadake - mu jalad pole helihargid, iga lihaskimp loob oma sagedusel ja intensiivsusel voogava muusika, mis ühtekokku liitudes saab just selle soorituse lauluks. Minu asi heliloojana on ette anda rütm ja taktimõõt. Pingestumiste ja lõdvenemiste tsükkel tuleb harmooniliseks heliteoseks sulatada. Pealesunnitud kolekõlalised intensiivsused maksvad kätte, eriti kui pillikeeltel pole piisavalt treenitud või kui fastsia-trummikile on hooletusse jäetud, nii et see on liialt lõtv või rabe selleks, et 3:10 min/km tempot majutada.  
 
-###Jooksja on tähenduste looja. 
+### Kas tõde või tegu?. 
 Keskmes valitseb tühjus, aga selle ümber sünnitatakse üha uusi kõnelusi sellest, kuidas olemist korraldada. Jooksja on dissipatiivse süsteemi mudelkeha, kes, viies keha energeetiliselt tasakaalust välja, sunnib endas takka uut olemisviisi, ümbersündide bifurkatsioone. *Jooksusādhana*  avab väesolu väravad, tarmuka *tapase* toel aegneb valmis kõrgem korrastatus selleks, et mahutada suurenevat väge.
 
 Tulemus? Sitt ja kusi. Lekkivad soolikad ja kärsitu põis. Entroopia suurendamine kehapiiridest väljaspool. 
