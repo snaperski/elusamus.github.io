@@ -39,11 +39,14 @@ suhteliselt pideva mitokondriaalse retiikulumina, mis ulatub ühest rakust teise
 kärmelt energiat hädaliseni kanda[^4].
 
 [^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud
-mitokondrite ja kloroplastide pärinemine vabalt kondavast bakterites2
+mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
+
 [^2]: Kr mito=’lõim’, chondrion=’graanul, tera’. Kobakamas mõõtmes ilmutus kvantmehaanika laine-osakese
-kaksainsusest - kui molekulaarpoeetiliselt fantaseeida.
+kaksainsusest - kui molekulaarpoeetiliselt fantaseerida.
+
 [^3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5474251/ . Taimedel moodustuvad ka plastiididest rakuorganellide
-vahel sarnased stroomuliteks nimetatavad õõnsad torukse4.
+vahel sarnased stroomuliteks nimetatavad õõnsad toruksed.
+
 [^4]: Rakkudevahelisest kommunikatsioonist moodustab see imetegu küll ühe viisi. Rakud saavad manti vahetada ka
 rakkudevahelises ruumis ka nn mikropartiklite vahendusel või membraanidesse ajutiste avauste tekitamise kaudu
 otse, “suust-suhu” vahendusel.
