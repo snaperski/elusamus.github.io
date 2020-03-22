@@ -42,11 +42,7 @@ Siin organiseeruvad koerakud mikroühiskonnana, kus vaesemad rakud saavad kiirko
 selmet rakusurma esilekutsumise kaudu kohe näljapajukil virelev olend koost lahti võtta ja õgirakkudele
 ümbertöötlemiseks saata.
 Ometi toimetavad mitokondrid justnimelt ka surmakutsaritena - nende teine tähtis ülesanne
-energiatootmise kõrval on ülemäära kahjustunud raku hauda saatmine . Mitokondrid pole seega
-
-5
-
-tuimavõitu ATP-toodangut loov töölisklass, vaid kooperatiivne olendkond, kes nii iseenda kui ka
+energiatootmise kõrval on ülemäära kahjustunud raku hauda saatmine[^5]. Mitokondrid pole seega tuimavõitu ATP-toodangut loov töölisklass, vaid kooperatiivne olendkond, kes nii iseenda kui ka
 “peremeesrakust” vabrikandi võib jalapealt maha võtta kui asjalood nõuavad. Puudujäägid mitokondri
 enese ülesehituses on lisaks vähile mitmesuguste neurodegeneratiivsete haiguste (tuntumad: Alzheimeri
 ja Parkinsoni tõbi[^6]), diabeedi, aga ka (üha tõenäolisemalt) suurel määral autismispekti häirete allikaks[^7].
@@ -54,7 +50,13 @@ Lohutava kõrvalpõikena: mitokondrite kvaliteedi parandamine on meie enda käte
 aeroobne treening suurendab lihasrakkudes mitokondrite arvu ning sidusust[^8], võrgustikuks kokku ja lahti ühendamise vilumust. 
 Ja ehkki argimõistuslik eksiarvamus võib füüsilist treeningut pidada peamiselt
 lihaste isoleeritud kultiveerimiseks, on nii hiirte kui inimeste kallal katsetades on selgunud, et
-vastupidavustreeningud suurendavad ajurakkude hulka (eelkõige hippokampuses[^9]) ja ka mitokondrite arvu neis. Leidub teisigi füsioloogilisi protsesse, mis pilbastavad hämara ettekujutuse treeningust kui peamiselt lihaskoe optimeerimise kaudu tervisekasu toovast tegevusest .
+vastupidavustreeningud suurendavad ajurakkude hulka (eelkõige hippokampuses[^9]) ja ka mitokondrite arvu neis[^10]. Leidub teisigi füsioloogilisi protsesse, mis pilbastavad hämara ettekujutuse treeningust kui peamiselt lihaskoe optimeerimise kaudu tervisekasu toovast tegevusest.
+
+Aga mitokondrite lugu kogus üha veidrust. Sattudes viisteist aastat tagasi noorte füüsikute sügiskooli[^12],
+võtsin sauna eesruumis sõbraga jutuks nanotehnoloogia tulevikuvisioonid. Jutule peale sattunud autoriteedist füüsikamagister ütles umbes midagi sellist: *Jätke see nanosiblimine, kvantarvutid tulevad*.
+Nüüdseks on teadlased tõesti paarikümne kvantbitiga opereerivad arvutid ülikülma purki saanud, kuid kvantarvutite ja kvantkrüptograafia tõotatud riiki saabumist tuleb veel oodata. Mis huvitavam - on märke, et kvantarvutite kallal huugvelpäi nuputavate teadlaste ajudes endis toimuvad mõned protsessid kvantarvutite põhimõtetel. Ja seda mitte peaaegu absoluutse nulli tingimustes nagu on
+seni nõutud kvantkoherentsuse säilimiseks, vaid kehatemperatuuril ja kõrgemalgi[^13]. Mitokondriaalsete kvanthüpetega saab liikuda radadele, kus libisemisoht kvantmüstikasse on käegakatsutav. Ometi võib öelda, et mitokondritest mõelda tähendab mõelda mitokondritega. Nii on California ülikooli kvantmehaaniku Matthew Fisheri eestvedamisel hoogu üles võtva QuBrain[^14] projekti põhiliseks uurimisaineseks see, kas ja kuidas neuronites paiknevad mitokondrid kasutavad ära sealleiduvate (ATP-sünteesis tekkinud) kvantpõimingusse viidud fosfaadiioonide paare, mis formeeritakse erinevatesse Posneri molekulidesse:
+![Posneri molekul](https://d2r55xnwy6nx47.cloudfront.net/uploads/2016/11/QuantumBrain_2000.png).
 
 [^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud
 mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
@@ -75,3 +77,13 @@ kaksainsusest - kui molekulaarpoeetiliselt fantaseerida.
 [^8]: Nt <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3384482/>
 
 [^9]: 2011 aastal avaldatud artikli (<http://www.pnas.org/content/108/7/3017>) kohaselt suurenes suhteliselt mõõduka aeroobse treeningu (sisuliselt kiirkõnni) tagajärjel hipokampuse ruumala aastase treeningu järel keskmiselt 2% (keskmiselt kontrollgrupis)
+
+[^10]: https://www.physiology.org/doi/full/10.1152/japplphysiol.00343.2011 . Mitokondrite panus neuronites on vajalik peamiselt sünaptilistes protsessides.
+
+[^11]: Siin annan järgi kiusatusele järmiseks põgusaks kõrvalpõikeks müokiinide radadele. Esimest korda kuulsin neist aastal 2012 Ragnar Viiri suust, TEDxTartu-t kuulates (https://www.youtube.com/watch?v=gnD6ags_VA4 ). Liikvele läinud lihased hakkavad usinalt lobisema ehk vahetavad müokiinide näol teiste organitega ja kudedega vilkalt sõnumeid (vt nt: <https://www.sciencedirect.com/science/article/pii/S2213422014000705>) ja korraldavad kogu organismisisese elutegevuse ümber nii, et keha oleks oma ümbrusega võrdväärne, nagu ütleks kunagine kodumaine spordifilosoof Georg Hackenschmidt. Müokiinide tähenduslikkuse küsimusega tuleks tegelema sünnitada uusbiosemiootika alamharu - müosemiootika. 
+
+[^12]: Õppisin toona Tartu Ülikoolis Füüsika-keemiateaduskonnas infotehnoloogiat.
+
+[^13]: Nt mitokondrid on oma ~50oC justkui pisikesed aurusaunad.
+
+[^14]: <https://www.news.ucsb.edu/2018/018840/are-we-quantum-computers>
