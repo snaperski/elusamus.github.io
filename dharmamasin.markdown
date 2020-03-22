@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Inimeste hämarus"
+date:   2020-03-21 21:24:14 +0200
+categories: ai dharmamasin
+---
 *Asja tuum on uue riigi põhilistes määrustes. Need määrused on lihtsad ja neid on kõigest kolm: pime usk seaduste eksimatusse, täielik ja vastuvaidlematu kuuletumine nendelesinastele ning kõikide väsimatu silmaspidamine igaühe poolt!*
 (“Raske on olla jumal”, A. ja B. Strugatski)
  
