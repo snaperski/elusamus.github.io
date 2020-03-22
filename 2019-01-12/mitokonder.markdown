@@ -91,17 +91,38 @@ vaid päristuumse raku võimekusest ühe geeni kohta (tänu mitokondrite armeele
 korda rohkem energiat [^19]. Ehk võimalusi ligikaudu sama suure geneetilise raamatukogu põhjal tõlgendusi valkudeks luua on tohutult rohkem. Samamoodi on ilukirjanduse poolest rohke raamatukogu
 väljendusrikkam kui üksnes kokaraamatuid sisaldav - kuigi maht võib olla sama.
 
-Nüüd (auto)poieetilisemaks ehk kallakem kuupaistet mu kapsasupile! Äsjatoodud mitokondriaalsete
-imetegude taustal söandan teha lühiühenduse väe kasvatamisse üldisemalt, tuginedes vilksamisi Margus
-Oti visandatud väendusele.
+Nüüd (auto)poieetilisemaks ehk kallakem kuupaistet mu kapsasupile! Äsjatoodud mitokondriaalsete imetegude taustal söandan teha lühiühenduse väe kasvatamisse üldisemalt, tuginedes vilksamisi Margus Oti visandatud väendusele.
 Sai juba vihjatud, et järjekindel jooksja mitmekordistab endas nii mitokondrite arvu kui suutlikust
-tulemaks toime energeetiliselt nõudlikes olukordades. Jooksja vägi kasvab siin ühest otsast mitokondrite
-kui kõrvutuvate elementide rohkendamise teel, teisalt aga nende omavahelist läbikäimist võrgustades.
-Nõnda toimib vägi kehas jooksmise kui praktika sihis survena leiutamistööks homöostaasi hoidmiseks ka
-epigeneetilise keerukustumise plaanis. Mida aga rohkeneva väega pihta hakata, kas jäädagi
-laske-ma-näitan-milline-mees-ma-olen mõtetes metsaradadele päevast-päeva punuma? Spordile on ju
-iseloomulik, et ka vaimsusest kõneledes on selline kõvatav meelestatus tuntav mitte üksnes *al dente*, vaid
+tulemaks toime energeetiliselt nõudlikes olukordades. Jooksja vägi kasvab siin ühest otsast mitokondrite kui kõrvutuvate elementide rohkendamise teel, teisalt aga nende omavahelist läbikäimist võrgustades.
+Nõnda toimib vägi kehas jooksmise kui praktika sihis survena leiutamistööks homöostaasi hoidmiseks ka epigeneetilise keerukustumise plaanis. Mida aga rohkeneva väega pihta hakata, kas jäädagi laske-ma-näitan-milline-mees-ma-olen mõtetes metsaradadele päevast-päeva punuma? Spordile on ju iseloomulik, et ka vaimsusest kõneledes on selline kõvatav meelestatus tuntav mitte üksnes *al dente*, vaid
 otse karjudes hamba all.
+
+Peab ülendavamat lootma; kui linnud said mitokondrite väel maast lahti [^20] ja neile avanes vertikaalne omailm linnulennult, siis inimene kui homo cursor on tõendatavasti [^21] evolutsiooniliselt kohastunud pikkadeks horisontaalseteks retkedeks, kes alles kipitseb [^22] oma ilmasambaid. Jooksuolendina olen sõtkunud end sedavõrra sõgedaks, et pean vertikaalset transtsendentsi vahetult haaratavamaks
+kinematopoeetilises ennemini kui pühakirjasõna harduses.
+Ometigi väekasvatamise õpetus, mis üksnes pillutab kasvavaid elamise intensiivsusi jooksutrajektoorideks või siis - hoopis üldisemale suundumusele viidates, - ülistab digitaalsete nomaadide trendi kohakesksemate praktikate asemel, soojendab endas ohtu, millele on viidanud taimefilosoof Michael Marder essees “Anti-Nomad” [^23]. Kokkuvõtlikult kostab ta osalt Heideggeri kaudu, et nomaadid
+mitte üksnes ei elune kõrbetes, vaid kipuvad paigast paika ränneldes ja ressursse lühiplaaniliselt
+ammutades jätma endist maha kõrbestunud tühermaa. Tähendab, paradoksaalselt on nomaadliku sõjamasina pagemisjoontes peidus totaliseeriv ükskõiksus, mis vaba mõttejooksu tuhinas on samamoodi võimetud nii ülenemiseks kui süvenemiseks. 
+Nomaadlikult rutlevate jaoks on nii Taevas kui Maa surnud osutused, milledega tal ei ole asja (kuna pindmistel väekäikudel olles ei ole ta ise olnud võimeline neid rajama). Kõik näikse lihalik, liiglihalik. On’s Jumala näol tõesti tegu vaid inimvaimu vertikaalsest
+hõõrdumisest põhjustatud kroonilise põletikuseisundiga nagu räägib Sloterdijk? Või hoopis viibib lummusest vabastatud intellektuaal omasüülises vanadusnõtruses, pöördumatus kõrgusekartuses.
+
+Otse uusmaterialismi üsas võibki kohuda järjekordne hüpe vertikaalsema organiseerituse suunas, kus uut
+olemise telge märgistav ilmapuu võib taimsel viisil juurduda sügavusse, aga miks ka mitte teises suunas
+võrastuda jumalateni.
+Jõukohasemal, poliitilisel tasandil tuleb evolutsioonilisele tähtsündmusele tagasi vaadates küsida - mis
+saanuks kui Arhe-tüüp oleks Mitokondrile EI! öelnud ja rakumembraani karmilt koomale tõmmanud [^24]?
+Nüüdsama aga nõutakse meilt enamatki kui juba evolveerunud koostöövõimekuse ära kasutamist selleks,
+et kogukondamisi üksteisesse avaneda. Pole võimatu, et süvenev keskkonnakriis sunnib inimliiki otseses mõttes avama teistele liikidele lisaks südamele ka genoomi. Seda tasuks viimase võimaluseni vältida ja alles katastroofi künnisel võtta kurss taimestumisele - näiteks mitokondrite kõrvale kloroplastide istutamise teel õnnistada endid päikesetoidule veel enne kui muu ilma paljaks õgiksime [^25]. Pidas ju ka Uku Masing taimi täiuslikumaks eluvormiks inimestest ja küsis raamatus “Mälestusi taimedest”: mis juhtuks
+inimesega kui klorofüll saaks elada tema rakkudes? [^26]
+Säherdust budaloomuse biotehnoloogilist sundäratamist zazen -ile, kus muundumegi kõik nimetuteks
+väesoodu kulgevateks puupakkudeks, võib mõnigi meist kesise rõõmutundega tervitada. Veelgi kurvem
+saatus oleks sellises tsiviliseerumis- ehk istutusprotsessis (saabas - tool - nutividin) saada järgmise sammuna selleks, mis poolenisti ollakse - iseennast jõllitavaks võrgustunud ekraaniks, kelle roheline uhkus seisneb selles, et süüa enam ei küsita [^27].
+
+Teine võimalik arengutee (kui internet meid korteksitpidi ühtekokku ei tõmba) oleks määratuma, ei-tea-kust tekkinud ühinemistahte sunnil, sulatada endid kokku inimkond-limakuks, millekski taoliseks, mida vanarahvas teadis nimetada kõdul või kasekändudel külitavaks kratisitaks või puugipasaks. Kui amööbidel tähendas sellisesse plasmoodiumi elutsüklisse minek (mis võetakse ette ülerahvastatause
+tingimustes ehk siis kui üksikamööbide kontsentratsioon piisavalt kõrge ja ressursse vähe) rakuvaheseinade kaotamist ja üheks ainurakseks massiks muutumist, siis inimesedki, pressituna linnadesse üha tihedamalt üksteise vastu kokku, võivad ühtäkki ületada seni üha hoogustunud võõrandumise ja avanedagi üksteisesse sellise jõuga, et moodustub üks füüsiline limakutaoline keha, milles organid hulbivad esialgu üpris huupi, seni kuni endile uue funktsiooni leiavad. Nii et ühe kreeklase sõnadega saaks sellise imelooma kohta sünnihetkel täheldada: 
+*temast võrsus palju päid ilma kaeladeta, käsivarred turritasid ilma õlgadeta, ja silmad hulkusid ringi ilma laupadeta.*
+
+Seni veel kui limakusaatus [^28] või düsevolutsioon [^29] pole meilt jalgu alt tüssanud, tuleb väekal jooksuolendil
+hoida end jalgupidi muundumisvõimelisena - eile nomaad, homme risoomselt (või mikitamisi mõeldes - mükoriisakalt) juuri ajav taim, kelle üla-ja alailmad kasuvad ka pensionisammaste langedes. Tuleb püsida ühtaegu nii labases kui eneses, mitte konutada sihitult surmapoole nagu isaherilane elusügisel. Jah, omal jalal tuleb ette võtta käesoleva tegelikkuse teostamine, mida võiks ju ette võtta vaikse vetelkõnni viisil, aga miks ka mitte Ponyo kombel tormilainetel tulistvalu inimeseks tõtates [^30].
 
 [^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud
 mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
@@ -124,7 +145,7 @@ mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
 
 [^10]: https://www.physiology.org/doi/full/10.1152/japplphysiol.00343.2011 . Mitokondrite panus neuronites on vajalik peamiselt sünaptilistes protsessides.
 
-[^11]: Siin annan järgi kiusatusele järmiseks põgusaks kõrvalpõikeks müokiinide radadele. Esimest korda kuulsin neist aastal 2012 Ragnar Viiri suust, TEDxTartu-t kuulates (https://www.youtube.com/watch?v=gnD6ags_VA4 ). Liikvele läinud lihased hakkavad usinalt lobisema ehk vahetavad müokiinide näol teiste organitega ja kudedega vilkalt sõnumeid (vt nt: <https://www.sciencedirect.com/science/article/pii/S2213422014000705>) ja korraldavad kogu organismisisese elutegevuse ümber nii, et keha oleks oma ümbrusega võrdväärne, nagu ütleks kunagine kodumaine spordifilosoof Georg Hackenschmidt. Müokiinide tähenduslikkuse küsimusega tuleks tegelema sünnitada uusbiosemiootika alamharu - müosemiootika. 
+[^11]: Siin annan järgi kiusatusele järmiseks põgusaks kõrvalpõikeks müokiinide radadele. Esimest korda kuulsin neist aastal 2012 Ragnar Viiri suust, TEDxTartu-t kuulates (<https://www.youtube.com/watch?v=gnD6ags_VA4>). Liikvele läinud lihased hakkavad usinalt lobisema ehk vahetavad müokiinide näol teiste organitega ja kudedega vilkalt sõnumeid (vt nt <https://www.sciencedirect.com/science/article/pii/S2213422014000705>) ja korraldavad kogu organismisisese elutegevuse ümber nii, et keha oleks oma ümbrusega võrdväärne, nagu ütleks kunagine kodumaine spordifilosoof Georg Hackenschmidt. Müokiinide tähenduslikkuse küsimusega tuleks tegelema sünnitada uusbiosemiootika alamharu - müosemiootika. 
 
 [^12]: Õppisin toona Tartu Ülikoolis Füüsika-keemiateaduskonnas infotehnoloogiat.
 
@@ -141,3 +162,25 @@ mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
 [^18]: <https://et.wikipedia.org/wiki/Arhed>
 
 [^19]: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4555825/>
+
+[^20]: Nick Land on populaarteaduslikult lahti seletanud selle, kuidas linnud võrdlemisi kiirest ainevahetusest hoolimata on saavutanud üsna pika (albatross rohkem kui 150 eluaastat) eluea - vägitegu, mis oli võimalik tänu muudatustele mitokondrite hulgas ja morfoloogias, samuti mitogenoomis. Samuti võib lindude osav sisekõne mitokondritega olnud nende lennuvõimekuse tinginud hüppelauaks, nt: *Just to get aloft, they require more mitochondria, and more respiratory chains. If they lose these mitochondria, they simultaneously lose the ability to fly, or to fly as skilfully.* [Land, Nick. Power, Sex, Suicide. Mitochondria and the meaning of life. Oxford University Press , 2018. Lk 457]
+
+[^21]: <https://en.wikipedia.org/wiki/Endurance_running_hypothesis>
+
+[^22]: kipitseb=kippudes kõpitsema (sõna varastatud - aga tähendus häbitult moonutatud, - Margus Oti seinalt)
+
+[^23]: <http://www.euppublishing.com/doi/abs/10.3366/dls.2016.0241>
+
+[^24]: Samamoodi pole elusainese piirid määratlematult “virdavad ja vulavad” - poleks rakud funktsionaalselt diferentseerunud ja loobunud sugurakkude pseudosurematuse ahvatlevast saatusest, poleks meil iseenese saatusega leppinud organeid, milledest organism kokku sai. Kuigi kellelgi võib selline jutt kopsu üle maksa visata, pole organ ideoloogiline konstrukt, milles rakud ootavad biokommunistlikku  lunastust saamaks kõik koos virdavaks tüvirakkude massiks.
+
+[^25]: Taguotsapidi juba oleme taimedele väga sarnasel viisil sõltuvad bakterite ühisloomest meie soolikates, milles toimetab tuhatkond erinevat bakteriliiki, ligi suurusjärgu võrra rohkemate rakkudega kui leidub meie enese rakke kehas kokku. Mullateadlane David Montgomery toonud koos oma bioloogist naise Anne Biklé-ga kahasse kirjutatud raamatus “The Hidden Half of Nature: The Microbial Roots of Life and Health” esile väga leidliku analoogia taimedele omase juurestiku ja loomade soolestiku vahel.
+
+[^26]: Masing, Uku. Mälestusi taimedest . Ilmamaa, 1996. Lk 123. Aga ka: *mis juhtuks kui tõuguga sarnlev inimene suudaks mingi histolüüsi-taolise protsessiga teha endast uue olendi./../ kui mingi katalüsaatoriga inimene muudaks kõiki oma hormoone? (Ibid, lk 151). Keha tunduks siin hingele üldse liigsevõitu ja nagu ajutiselt ergastunud elektron lõpuks algolekusse tagasi nihkudes kiirgab energiakvandi, nii ehk heitub hinge küljest kunagi ka keha (Ibid, lk 155-156). Inimese kohta julges ta veel loota jalgadeta pea lendutõusu - mingi kirjude tiibadega pää või silm, kes lendab või ujub õhus, on käteta-jalgadeta, puutub maaga kokku ainult katsesarvede taoliste organitega (Masing, Uku. Meil on lootust .Ilmamaa, 1995. Lk 171)*
+
+[^27]: Taimedes on kloroplastid ja mitokondrid sageli kenasti lähestikku, sest üks sööb, mida teine väljutab.
+
+[^28]: Mõningate limakute filopoodid meenutavad Uku Masingu unistatud lendava pea katsesarvi juba küll, jooksujalgadeks pole neist aga enam asja.
+
+[^29]: Hardvardi liikumisteadlase Daniel Liebermani mõiste, vt <https://harvardmagazine.com/2013/10/daniel-lieberman-story-human-body>
+
+[^30]: <https://www.youtube.com/watch?v=CsR3KVgBzSM&feature=youtu.be&t=67>
