@@ -124,8 +124,7 @@ tingimustes ehk siis kui üksikamööbide kontsentratsioon piisavalt kõrge ja r
 Seni veel kui limakusaatus [^28] või düsevolutsioon [^29] pole meilt jalgu alt tüssanud, tuleb väekal jooksuolendil
 hoida end jalgupidi muundumisvõimelisena - eile nomaad, homme risoomselt (või mikitamisi mõeldes - mükoriisakalt) juuri ajav taim, kelle üla-ja alailmad kasuvad ka pensionisammaste langedes. Tuleb püsida ühtaegu nii labases kui eneses, mitte konutada sihitult surmapoole nagu isaherilane elusügisel. Jah, omal jalal tuleb ette võtta käesoleva tegelikkuse teostamine, mida võiks ju ette võtta vaikse vetelkõnni viisil, aga miks ka mitte Ponyo kombel tormilainetel tulistvalu inimeseks tõtates [^30].
 
-[^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud
-mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
+[^1]: osa algselt Lynn Margulise poolt esitatud endosümbioosi teooriast, millest nüüdseks on vettpidavaks osutunud mitokondrite ja kloroplastide pärinemine vabalt kondavast bakteritest
 
 [^2]: Kr mito=’lõim’, chondrion=’graanul, tera’. Kobakamas mõõtmes ilmutus kvantmehaanika laine-osakese kaksainsusest - kui molekulaarpoeetiliselt fantaseerida.
 
