@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Inimeste hämarus"
-date:   2020-03-21 21:24:14 +0200
+title: Inimeste hämarus
+date: '2020-03-21 21:24:14 +0200'
 categories: ai dharmamasin
+published: true
 ---
-*Asja tuum on uue riigi põhilistes määrustes. Need määrused on lihtsad ja neid on kõigest kolm: pime usk seaduste eksimatusse, täielik ja vastuvaidlematu kuuletumine nendelesinastele ning kõikide väsimatu silmaspidamine igaühe poolt!*
+> Asja tuum on uue riigi põhilistes määrustes. Need määrused on lihtsad ja neid on kõigest kolm: pime usk seaduste eksimatusse, täielik ja vastuvaidlematu kuuletumine nendelesinastele ning kõikide väsimatu silmaspidamine igaühe poolt!
+
 (“Raske on olla jumal”, A. ja B. Strugatski)
  
 
@@ -62,4 +64,3 @@ pole päriselt päral; inimestel on veel vara lasta kõigel pärivett minna ja t
 [^6]: *Inimesed on haigus, vähkkasvaja sellel planeedil*, ütles agent Smith Morfeusele.
 
 [^7]: Sloterdijk, Peter. You must change your life. On Athropotechnics. Polity Press, 2013
-
