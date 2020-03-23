@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2014-06-27 11:29:00 GMT
+title: "Jooksja kui tähenduste looja ja otsija"
+---
+<p>Selle <a href="https://dl.dropboxusercontent.com/u/100171237/doktorikavand_RaivoAlla.pdf">doktorit&ouml;&ouml; kavandiga</a> ei &otilde;nnestunud mul (napilt) siiski viimast aastat teadukonnana hingavasse Tartu &Uuml;likooli Usuteaduskonda sisse saada. S&uuml;&uuml;distada pole kedagi, ka ennast mitte. Tuleb kirjas&otilde;na aegamisi kuidagi teisel viisil jooksujalgu teenima panna. T&auml;nan m&otilde;ttes juba mitmendat korda Anne Kulli, kes vastuv&otilde;tukomisjonis avaldas, et talle v&auml;ga meeldis Murakami jooksuraamat ja et matkamisr&otilde;&otilde;mud pole talle endalegi &uuml;ldse v&otilde;&otilde;rad. See indiaanlaslik naine tabas sydamesse, sai otsemaid pihta. Sellest ju kogu selle teema hakatus - r&otilde;&otilde;m liikumisest on tegelikult kogu jooksualkeemia ainus toodang. See on muidugi saladuste saladus, sest dissertatsioonis peab olema natuke rohkem kui &uuml;ks lause.</p>

@@ -1,0 +1,6 @@
+---
+layout: post
+date: 2015-03-25 12:06:42 GMT
+title: "Keemiarelvad"
+---
+<p>Kui minu igiammune treener mulle kuskil 17 aastat tagasi (noortespordi tegemise aegu) MILDRONAT nimelise südamerohu paberile kirjutas ja Lätist seda osta soovitas (sai retseptita), siis polnud mul mõnda aega aimugi, et tegu on suts kahtlase värgiga. Seda enam, et treeneri sõnutsi olid sellised taastumisvahendid OK ja Loskutovil minevat sisse terve peotäis sedasorti kraami. &nbsp;&nbsp;<br></p><p>MILDRONAT ja TMZ (<a href="http://sport.delfi.ee/news/kergejoustik/eesti/jarjekordne-eesti-pikamaajooksja-jai-dopinguga-vahele?id=71092657">millega nüüd Vedehhin rajalt maha tõmmati</a>) on põgusa googelduse põhjal analoogsed “treeningvahendid”. Südamehaigete rohud, tippsportlastel siis selleks, et keha koormustele vastu peaks.</p><p>Oleks tore kui sellist piiripealset jama enam noortespordis ei kohtaks. Ja oleks ülimalt tore kui sarnaste kemikaalidega turgutamine kaoks ka meie tippude arsenalist. Mõistagi on mõlemad lootused naiivsed, sest eeldaks hüpet spordi vaimu mõistmises, milleni paraku ei vii ükski käsulaudtee. Kes aitaks?<br></p>

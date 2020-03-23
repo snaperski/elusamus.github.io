@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2015-02-06 14:05:32 GMT
+title: "Neurotrofiinid ja anandamiidid"
+---
+<p><b><br></b>&Auml;rkan ja valan t&auml;pselt sihitud kohvitassi sisse.<b><br></b></p><p>Liigutused ei eksi &auml;ra, k&otilde;ik on rituaalselt rihitud jooksurutiini teenistusse. K&otilde;rvalseisjale v&otilde;ib tunduda, et s&otilde;ltlase p&auml;ev l&auml;heb taaskord jooksule raisku. Millest see rutt kohe varahommik jooksuannus veeni lasta? </p><p>Lisaks: kohvi hommikul, &otilde;lu &otilde;htul - kohe p&auml;rast treeningut. Port, Pullerits ja Elujooks seda heaks ei kiida. </p><p>M&otilde;&otilde;dutundetu askees pole kunagi eriliselt tervislik olnud, see pole askeesi eesm&auml;rk. Kuid&nbsp;&ldquo;uuringud n&auml;itavad&rdquo; jooksja aju olevat neurotrofiinide aktiivsuse t&otilde;usu t&otilde;ttu neuroplastilisema ja noradrenaliini t&otilde;ttu keskendumisv&otilde;imelisemana. Nojah, ja siis on veel endorfiin&hellip; Ei, see pole hoopiski mitte endorfiin, vaid kanepilaadne endokannabinoidide hulka kuuluv anandamiidiks h&uuml;&uuml;tav &uuml;hend, mis meid, jooksjaid, pilve&uuml;hiskonda l&uuml;litab. Milline tabav nimi - anandamiid!
+
+</p><p><a href="https://www.youtube.com/watch?v=O3t0FCy0v_4">Shivoham, anandoham!</a></p><figure class="" data-orig-height="480" data-orig-width="500" data-orig-src="https://31.media.tumblr.com/2efbe8081d4b0a023999890b0c35ecca/tumblr_inline_njcsfeUuxd1qjcjk2.jpg"><img src="https://66.media.tumblr.com/2efbe8081d4b0a023999890b0c35ecca/tumblr_inline_pkmfy9efbp1qjcjk2_540.jpg" data-orig-height="480" data-orig-width="500" data-orig-src="https://31.media.tumblr.com/2efbe8081d4b0a023999890b0c35ecca/tumblr_inline_njcsfeUuxd1qjcjk2.jpg"></figure>

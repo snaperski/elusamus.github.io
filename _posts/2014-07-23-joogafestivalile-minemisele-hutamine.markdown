@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2014-07-23 07:48:00 GMT
+title: "Joogafestivalile minemisele õhutamine"
+---
+<p><span><img alt="image" src="https://31.media.tumblr.com/6cbf90f1dbb39439d5521b8c2586cfdc/tumblr_inline_n95rfbfA6L1qjcjk2.jpg" /></span></p>
+<p></p>
+<p><span><span>&Uuml;ks vana hiina m&otilde;ttetark v&otilde;inuks &uuml;telda: &ldquo;Kulg on minus ennast <em>&auml;ra kulutanud</em>, v&otilde;tan ette seda v&auml;rskeks tuulutada.&rdquo;</span></span></p>
+<p id="docs-internal-guid-54e3374b-622a-7259-4703-ea95eceade09"><span>Aga &uuml;ks teine muidu t&auml;itsa m&otilde;istlik mees olevat teinud alal&otilde;pmata k&otilde;vasti trenni ja unustas ja unustas ja unustaskivat &auml;ra, et on ka Hing. Mis oli &uuml;ksjagu veider, sest muud ta ju p&auml;evad otsa ei teinudki kui hingeldas ja hingeldas. N&otilde;nda l&auml;ksid temas jutud liikvele, et just seep&auml;rast Hing v&auml;lja kolis - kuhugi rahulikumasse kohta, kus teda nii tuliselt ei l&otilde;&otilde;tsutataks.</span></p>
+<p><span>Kehagi kuhtus, justkui midagi olulist temast oli l&auml;inud hingekarja.<br />&ldquo;Sa kuradi kurat, polegi muud alles j&auml;&auml;nud kui jooksujalad ja perse, mille otsa need kinnituvad,&rdquo; ohkas mees ja oherdas ennast m&otilde;neks hetkeks Jumala palge ette oma mahaj&auml;etuse &uuml;le masturbeerima. Kuid suurt kasu sellest ei s&uuml;ndinud, kundaliniuss p&uuml;sis perseligi, liighatades end vast pool keerdu lahtipoole.</span></p>
+<p><span>M&ouml;&ouml;dus &uuml;ks p&auml;ev ja teine p&auml;ev. Siis sai ka kolmas p&auml;ev. Joogamatil said meeleplekid j&auml;rjepanu seljav&otilde;ite. V&auml;elaulunektarit k&uuml;ll vaikselt tilkus p&auml;ikesep&otilde;imikusse, kuid p&ouml;&ouml;risrattad olid liig roostes ja &auml;gisesid vaid, ei aidanud&nbsp; laulu&otilde;li. Kuidas on v&otilde;imalik seda siin &uuml;ldse kirjutada kui loomisv&auml;eline sakraalt&scaron;akra pidurdab? <br /></span><br /><span>Aga seitsmendal p&auml;eval imbus kuskilt otsast Jooksjasse ennastarmastav taipamine, et keha vaimustamise sepat&ouml;&ouml; v&otilde;tabki hingetuks. Siis tuleks vaid seisatuda, jooksumantrad uuesti v&auml;estada ja &nbsp;seej&auml;rel taas dharmaratast jooksuradadel edasi keerutada. <br /><br /></span></p>

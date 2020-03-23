@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2012-10-18 17:09:00 GMT
+title: "Maratonivallatu(d) maratonimallatu"
+---
+<p>Totter on &ouml;elda, et "hooaeg" on l&auml;bi saamas, aga selliselt s&otilde;nu seatakse. Niisiis ka mina rehkendasin v&auml;lja oma maratonieelarve j&auml;rgmiseks aastaks - v&otilde;tta jooksmiseks l&otilde;unapoolsete naaberriikide maratonid: Riia, Vilnius ja Valmiera. Viimasest on Contra kirjutanud <a href="http://www.marathon100.com/est/uudised.n/valmiera-maraton">siin</a>.<br>Tahan endiselt joosta nii, et s&uuml;da r&otilde;emutseks ja jalad vuhiseksid parasjagu. Pime s&uuml;gis hakkab neelama ja kaamost hakkab saama, aga ma ilutsen juba m&otilde;ttest, et sedakorda on mul s&uuml;damesoojendaja, kelle kohta on piiblis &ouml;eldud: "V<span>aata, sa oled ilus, mu kullake,&nbsp;</span><span>vaata, sa oled ilus!</span>&nbsp;"<br>Jah t&otilde;esti, teda v&otilde;ib kaloreid kulutamata maratonide viisi vaadata. &nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<figure class="tmblr-full" data-orig-height="600" data-orig-width="395"><img alt="image" src="https://66.media.tumblr.com/2895d56e67c893cfc2d9a73d7af211b9/05f7e71310d5b63d-29/s540x810/b44453c3e2b2ebafeaea84311d572263ce8b9ec2.jpg" width="100%" data-orig-height="600" data-orig-width="395"></figure></p>

@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2014-08-19 11:18:20 GMT
+title: "Kes Muhu, kes kuhu"
+---
+<p>Sellesuviste elujooksjate autos Muhku s&otilde;ites viirastusid mulle m&otilde;nedki hetked 2012 (ja ka 2011) aasta Elujooksu laagrist ja eile Silja <a href="https://www.youtube.com/watch?v=A5FOHdQn0Cg&amp;feature=youtu.be" target="_blank">v&auml;rsket laagri koondvideot </a>vaadates tundsin uuesti t&auml;nulikkust elujooksjate vastu, kellede r&uuml;pes sai avastatud nii "jooksukarj&auml;&auml;ri" kaevanduste rikkused kui ka eluarmastuse leiukoht.</p>
+<p>Aga Muhumaa v&otilde;ttis meie stardirivi vastu vihmapalanguga... &nbsp;k&auml;barad olid aga juba eelnevalt soojaks v&otilde;imeldud ja sobilik r&uuml;tm valgus jalgadesse &uuml;sna pea. Esimesel kilomeetril olid seljataga veel Reinsalu sammud, kuid aegamisi need kaugenesid... nagu kuulda oli, valis ta selgi korral oma tempo maratoniettevalmistuse kammitseva lipu all</p>
+<blockquote class="twitter-tweet">
+<p><em>Tegin juba eile k&otilde;ik selleks, et t&auml;na Muhu jooksul "lennukit" ei oleks. Ei l&auml;he korda ei kohad ega konkurendid. Tibusid loetakse SEB-il.</em></p>
+&mdash; Kristo Reinsalu (@kristoreinsalu) <a href="https://twitter.com/kristoreinsalu/statuses/500729041927020544">August 16, 2014</a></blockquote>
+<script charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script><p>Intriigid on elujooksjatele v&otilde;&otilde;rad, s&otilde;bralik rivaalitsemine kuulub vist teatud m&auml;&auml;ral "asja juurde"... Igathes loodan, et Kristo kand on maratoniks paranenud, sest sportlikult v&otilde;ttes saab SEB-l kindlasti p&otilde;nev jooks olema:&nbsp;<span>T&scaron;erepannikov, Sasmin, Lillelaid, Lehismets, Aristov, Reinsalu, ... &Uuml;le 2:30 joostes pole EMV medalit m&otilde;tet loota ja seda olukorras, kus kaks parimat (Fosti, Nikolajev) t&otilde;en&auml;oliselt ei stardi! <br>Jah, teise e&scaron;eloni tase on t&otilde;usnud... seda jooksu l&auml;hen ma tegema spartalasena (v&auml;estatud elujooksu <em>kungfu</em>-st).&nbsp;</span></p>
+<p>&nbsp;<figure class="tmblr-full" data-orig-height="333" data-orig-width="500" data-orig-src="https://31.media.tumblr.com/b92f854b1969f449644cf6eb79da48ff/tumblr_inline_najvvr007U1qjcjk2.jpg"><img src="https://66.media.tumblr.com/16078652903f6a6f7b9b487fd79c9a2d/tumblr_inline_pkltgmwBzb1qjcjk2_540.jpg" data-orig-height="333" data-orig-width="500" data-orig-src="https://31.media.tumblr.com/b92f854b1969f449644cf6eb79da48ff/tumblr_inline_najvvr007U1qjcjk2.jpg"></figure></p>
+<p>* Muhu jooksu (17.2km) start Kuivastu sadamast</p>
+<script charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script>

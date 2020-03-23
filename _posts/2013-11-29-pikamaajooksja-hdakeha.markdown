@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2013-11-29 06:58:00 GMT
+title: "Pikamaajooksja hädakeha"
+---
+<p><figure class="tmblr-full" data-orig-height="367" data-orig-width="500"><img alt="image" src="https://66.media.tumblr.com/280891137d23cba89ecb254c916682c8/0dcccf974402303b-c9/s540x810/9426ed4e4bee8b3ae57dfd79dd6d1c5f837817fc.jpg" width="100%/" data-orig-height="367" data-orig-width="500"></figure></p>
+<p>Olen m&otilde;elnud: tahaks joosta selliselt, et liigutused j&auml;&auml;ksid n&otilde;nda jala sisse ja muutuksid p&auml;eva loomulikuks osaks sel m&auml;&auml;ral, et ei saagi &ouml;elda, kas ma n&uuml;&uuml;d l&auml;hen kuhugi jooksma v&otilde;i jooksen kuhugi midagi muud tegema... ehk siis invariant A. Alliksaare luuleridadest -</p>
+<p><em>liikumine on niiv&otilde;rd liitunud mu loomusega,</em><br><em>et ma ei tea, kas ma p&otilde;genen v&otilde;i j&auml;litan.</em></p>
+<p>Aga paraku tuletab keha aeg-ajalt ise meelde, et jooksutreening on v&auml;liselt eesm&auml;rgistatud tahteline akt, mis ei sulandu alati keskkonda sama h&auml;sti kui m&otilde;ni p&auml;rivett triiviv puunott taoistlikus jutustuses. Kord pakatab p&otilde;lv valu&otilde;itsele, kord kannatab kannak&otilde;&otilde;lus. Eile avastasingi ahhilka &nbsp;valulikkuse, mistap m&otilde;tisklustele j&auml;&auml;b ihuliku olemise k&otilde;rvalt rohkem ruumi.</p>
+<p>&nbsp;Eile sai h&auml;mmastavat filmi P&Ouml;FF-il vaatamas k&auml;idud: <a href="http://www.kino.ee/Event/2694/"><em>Tummad s&otilde;numitoojad</em></a>. Kohal oli ka "filmistaar"&nbsp;<span>Natar Ungalaqi, keda m&auml;letan filmist&nbsp;<span><em>Atanarjuat</em> (<em>The Fast Runner</em>, "V&auml;lejalg"), mille t&auml;ism&otilde;&otilde;dus vaatamise alles plaanin ette v&otilde;tta. Nemad, kujutlen ma jooksuromantiliselt h&otilde;&otilde;gudes, liiguvad (sh jooksevad) justnagu puunott m&ouml;&ouml;da j&otilde;ge. Just niipalju kui vaja, aga vaja on palju, sest - nagu on inuittide kohta &ouml;elnud antropoloog Tim Ingold - inuittide arvates on liikuv inimene joon. Paigalseisev inimene olevat haruldus.</span></span></p>
+<p></p>
