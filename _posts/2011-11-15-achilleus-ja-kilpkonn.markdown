@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2011-11-15 18:15:00 GMT
+title: "Achilleus ja kilpkonn"
+---
+<p>Eelmine postitus põgusalt-pehmelt sarjas (ütleme siis "harjas") vigastuste trotsijaid, kes valu kannatades edasi treenivad. Nüüd tuleb mul teha kaks ülestunnistust korraga.</p>&#13;
+<p>Esimene - kümme aastat tagasi olin ka mina selline.</p>&#13;
+<p>Teine - ega vigastused mind pole teistsugusest jooksusse suhtumisest ja hoolikast venitamisest hoolimata maha jätnud. Pärast SEB maratoni juhtusin esimesel taastusnädalal tegema mõned jooksukilomeetrid jooksujalanõudeta (vihma eest põgenemine, töökaaslase juurest koju kappamine) ja selle tulemusena sain jalatalla põrutuse, mis visalt taandus. Läbi valu ma muidugi ei treeninud, tegin nädalase jooksupausi, kuid jalatalla lihastesse jäänud väsimusnõtrus hajus aegamisi. Nüüd pärast <a href="http://jooksuportaal.blogspot.com/2011/11/kaur-kivistik-voitis-21-valga.html" target="_blank">mardipäeva jooksu</a> jäi sutsu hellaks Achilleus, millele olen paar päeva puhkust andmas.</p>&#13;
+<p>Mis peamine rõõm - tänu Achilleusele sattusin ma täna kokku süvaveeaeroobikaga, kust ma just saabusingi, naba märg. Olen ebaõnnestunud kilpkonn. Jäsemed vänderdasid küll agaralt, aga muusikarütmi unustasin hoopiski. Ületamatuks harjutuseks jäi see, kui pidi endal selili olles kannad veest välja surkama ja nõnda 30 sekundit hoidma. Vanatädi mu kõrval sai soorituse eest kiita, mina aga hulpisin korrapäratult pulbitsedes nagu kurjaks aetud pelmeen keevas leemes. Suusatamine oli hea, seda oleks võinud teha kohe mituteist ja kolmandatki minutit jutti. Äkki peaks teinekord lihtsalt ujula pileti võtma ja oma aruga kuskil nurgas suuskama?</p> 

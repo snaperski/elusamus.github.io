@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2012-03-07 11:59:00 GMT
+title: "Me oleme jooksjateks loodud."
+---
+<p><a href="http://www.ted.com/talks/christopher_mcdougall_are_we_born_to_run.html" title="http://www.ted.com/talks/christopher_mcdougall_are_we_born_to_run.html">Me oleme jooksjateks loodud</a>, sest pärinedes algselt mustalt mandrilt, oleme me suure osa oma ajast veetnud antiloope surnuks joostes. Savannide kuumus oli üks põhjustest, mis inimese üldse püstijalu utsitas - püsti liikudes on põrgukuumuse käes olles otsese päikesevalguse kätte jääv nahapind väiksem.</p>&#13;
+<p>On teada, et inimene on hämmastav imetaja selle poolest, et suudab kaunis ohtralt higistada. Selle oleme evolutsioonilise paremusena endale kätte võidelnud selleks, et meie termoregulatsioon toimiks karmis kuumuses ka füüsilise koormuse ajal.Higistades kaotame kuumust, et jooksev organism kokku ei kukuks.</p>&#13;
+<p>Oleme ka joomise edasilükkajad. See olevat olnud 70-ndate lõpus, mil sporditeadlased nuputasid valusate kokkuvarisemiste sunnil välja, et maratonijooksu ajal oleks kasulik vett juua. Varasemal ajal joomisele aega ei raisatud. Selle tarkuse hiline avastus tuleneb sellest, et inimolend ei tunne füüsilise koormuse ajal erilist janu ka siis, kui organism vedelikku tegelikult sooritusvõime hoidmiseks vajaks. Sedasorti mehhanism arenes aga välja oletatavasti tänu sellele, et savanni jahimehed, kes päeval antiloope surnuks jooksid, ei tohtinud saagi mahanottimise huvides lasta ennast häirida vee manustamise vajadusest. Seega organism hoidis janukarje tagasi, sest koju tagasi pöördudes oli vesi kättesaadavam kui päeval looma taga ajades.</p>&#13;
+<p>Jah, saime püstijalu liikuvaiks ja higist leemendavateks olenditeks, aga sisikond mandus, soolestik lühenes. Ajumahu kasvades ei pakkunud evolutsioon tasuta lõunat, energia "raiskamine" ajukäärdudesse muutis meie sisikonna selliseks, et me peame baarides õlut jooma pudelhaaval narritades, samal ajal kui paljud teised imetajad kaanivad ennast korralikult täis ja on terveid päevi mureta.</p>&#13;
+<p><iframe frameborder="0" height="381" src="http://www.youtube.com/embed/AAwkCznJjAY" width="500"></iframe></p>&#13;
+<p>Aga nõnda see on, jooksjad meist said just tänu sellele, et me need vett täis, aga üles kuumenevad loomad saime kümneid kilomeetreid taga ajades maha tappa.</p>&#13;
+<p>Ja on veel palju muud, mis evolutsioon meid jooksjateks koolitades korda saatis - pikad jalad; jalakõõlused, mis võimaldavad meil liikuda vetruval viisil; tugev tuharalihas, mis hoiab raskuskeset hästi balansis; abistav ligament kuklas, mis pead jooksmise ajal püsti hoiab...</p>&#13;
+<p>Kui mu jalgadel oleks mõistus, küll see alles seletaks.</p> 
