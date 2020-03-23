@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2012-08-11 20:44:00 GMT
+title: "Asjaarmastaja jooksuaskees"
+---
+<p><em>sulle antakse ainult</em><br /><em>üks kondihunnik ühed liigesed </em><br /><em>hoia neid ometi</em> <br /><em>(Andra Teede, rongiluule)</em> <br /><br />Töökaaslase Eduardi antud (kogemustest lähtuv) soovitus joosta väljavenitatud hüppeliigesest hoolimata edasi, on kandmas magusaid vilju - nt täna pikka 30 km otsa tehes es olnud enamb õieti midagist tunda. Ja kolm ettevaatlikult peetud treeningkorda enne seda niisamuti julgustasid jalgu mitte liialt hellitama. Vigastusel ja vigastusel ON vahe, hindan Eduardi õppetundi seda enam, et see kõigutas minu ühekülgseks mugandunud arvamust, et vaid jooksunarkomaanist tobu läheb ennast valust hoolimata treeningutele lõhkuma. Viis jooksmata päeva enne seda andsid vaimule puhkust; nüüd on taas taltumas keha, kes vahepeal ootas, jätkamaks askesist ehk harjutamist.<br /> Muhu maanteed, need otsata kutsuvad jooned... 18-ndal augustil nilpsavad kõigest hoolimata mu jalad maantee magusust.<br />Meenutus eelmisest aastast, Andres Ehini sõnadega:</p>&#13;
+<p><em>on muhumaal röökiv põõsas<br />ja auru puhuvad sead<br />ma istun päikeselõõsas<br />süda teiselpool halba ja head</em><span class="HOEnZb"><br /></span></p> 

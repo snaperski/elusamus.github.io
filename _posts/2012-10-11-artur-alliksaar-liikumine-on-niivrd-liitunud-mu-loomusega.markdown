@@ -1,0 +1,7 @@
+---
+layout: post
+date: 2012-10-11 13:19:00 GMT
+title: "Artur Alliksaar: “Liikumine on niivõrd liitunud mu loomusega”"
+---
+<p><em><span>Liikumine on niiv&otilde;rd liitunud mu loomusega,</span></em><br><em><span>et ma ei tea, kas ma p&otilde;genen v&otilde;i j&auml;litan.</span></em><br><em><span>Kui jultunud juhuslik natukeseks hajub, n&auml;en j&auml;lle, et olen paljud r&auml;ndavad m&otilde;tted.</span></em><br><em><span>Kuhu nad ruttavad?</span></em><br><em><span>Kas see, kes neid takka kihutab, ei v&auml;si v&auml;himalgi m&auml;&auml;ral?</span></em><br><em><span>Kas kaugused ei raugesta teda?</span></em><br><em><span>Kas uni iialgi ei v&auml;isa ta lauge?</span></em><br><em><span>Kas ta kusagil ei k&uuml;llastu ega ammendu?</span></em><br><em><span>Millist oma m&otilde;tteist v&otilde;iksin eelistada, tundes, kuidas nad k&otilde;ik &uuml;htviisi r&auml;ndavad?!</span></em></p>
+<p><em><span>&nbsp;<figure class="tmblr-full" data-orig-height="355" data-orig-width="473"><img alt="image" src="https://66.media.tumblr.com/98d9644fc3756eda2730793e60dfe9d8/19965830817747fd-08/s540x810/573f86b47a69f97b254ab35c23142f59ffa250f7.jpg" width="100%" data-orig-height="355" data-orig-width="473"></figure></span></em></p>
