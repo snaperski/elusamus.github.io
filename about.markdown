@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manifest
+title: Meta
 permalink: /about/
 ---
 ## Millest ma jooksen?
