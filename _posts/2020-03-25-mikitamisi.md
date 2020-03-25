@@ -16,4 +16,4 @@ Mikitalt laotangi järgneva tsitaadi, et liigagarad vabatahtlikud koduspüsijad 
 
 (Valdur Mikita, "Põliskeele omailm")
 
-Mikita viimatise raamatu põhitaotlus on seada üleilmastumisele vastukaaluks omailmastumine. See võiks olla parim, mis COVID-19 individuaalses plaanis sünnitada võiks. Eestlase omailm ei mullistu aga koduseinte vahel, vaid saab tõelise hingamise looduses, milles kondamist - vähemasti esialgu, - pole lukku pandud.
+Mikita viimatise raamatu põhitaotlus on seada üleilmastumisele vastukaaluks omailmastumine. See võiks olla COVID-19 üks kingitustest üksikisikule, lisaks aasta keskkonnateole globaalses skaalas. Eestlase omailm ei mullistu punapõskseks koduseinte vahel, vaid saab tõelise hingamise looduses, milles kondamist - vähemasti esialgu, - pole lukku pandud. Budistlikku mõttetera "minu vaenlane on saabunud kui ootamatu varandus" tuleks rakendama asuda ja lüüa kärmelt immuunsüsteemile jalad alla vastutustundlikult metsapakku liikvele minnes.
