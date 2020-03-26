@@ -1,7 +1,7 @@
 ---
-layout: pdf
+layout: post
 date: 2020-03-26 08:10:45 GMT
 title: "Kalamaja jooksutsoon"
 ---
 Meenutades oma kalamajaliseks olemise perioodi ajal, mil poeskäik võib mõnele tunduda kui Tsooni sisenemine. Toona ilmus see tekst raamatus "Õhus on Kalamaja".
-<iframe src="https://github.com/elusamus/elusamus.github.io/blob/master/pdfs/tsoon.pdf" width="100%" height="100%"></iframe>
+<object data="/pdfs/tsoon.pdf" width="1000" height="1000" type='application/pdf'/>
