@@ -3,5 +3,5 @@ layout: post
 date: 2020-03-26 08:10:45 GMT
 title: "Kalamaja jooksutsoon"
 ---
-Meenutades oma kalamajaliseks olemise perioodi ajal, mil poeskäik võib mõnele tunduda kui Tsooni sisenemine. Toona ilmus see tekst raamatus "Õhus on Kalamaja".
+Meenutades oma kalamajaliseks olemise perioodi ajal, mil poeskäik võib mõnele tunduda kui Tsooni sisenemine. Toona ilmus see tekst raamatus ["Õhus on Kalamaja"](https://www.hooandja.ee/projekt/kogukonnaraamat-ohus-kalamaja).
 <object data="/pdfs/tsoon.pdf" width="1000" height="1000" type='application/pdf'/>
