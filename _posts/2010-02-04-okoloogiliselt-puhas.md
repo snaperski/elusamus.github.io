@@ -1,9 +1,10 @@
 ---
-published: false
+layout: post
+title: Ökoloogiliselt puhas
+date: '2010-02-04T08:40:00.001-07:00'
+author: snaperski
+tags: miniatuur öko
 ---
-
-## Ökoloogiliselt puhas
-
 Ragle teadis, mida suhu sünnib panna. Ka ükski tema sõpradest ei võtnud jumal-teab-mida suhu.
 Siin ta meil elabki - Tammelinna süleleva linnamaastiku roheluses, kus puuvõrad koogutavad rahustavaid palveid lõunatuulde.
 Siis keerutab tuul puuderea korralikult ekstaasi lävele ja nüüd nõksatavad nad tuulepuhangutes pühaliku ägedusega nagu juudid sünagoogis.
