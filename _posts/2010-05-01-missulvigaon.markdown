@@ -1,8 +1,3 @@
-Kultuurimaastiku antropogeoloogilised kihistused ei muutu hoomatavaks päevapealt, lisaks tuleb ikka ja jälle (kuni dharmaratas keerleb) tegeleda mõtteleidude kartograafilise viimistlemisega. Nii on lood ka meie internetifolkloori tagasihaardelise analüüsiga, mida käesolev kirjutis katsubki teha.
-
-Noorteühiskonna mitmekihilist süvaolemust lahti kooriv videolõik "Mis sul viga on" on ontoloogilises mõttes monumentaalse tähtsusega.
-Enamgi, moodsa religiooniantropoloogia kombinatoorse metodoloogia seisukohast on tegu virtuoosliku osalusvaatluse sooritusega, kus situatsioon asetatakse vaataja ette nagu sajandeid ja sajandeid arusaamatu järjekindlusega lehkav jänesepabul, mille päritolu kohta on teada vaid käputäis luiskelugusid, aga mitte ühtegi usutavat teaduslikku seletust.
-
 ---
 layout: post
 title: Mis sul viga on? kui posthumanoidse noortekultuuri metatekst.
@@ -10,6 +5,12 @@ date: '2010-06-01T08:40:00.001-07:00'
 author: snaperski
 tags: millestsaarueisaa missulvigaon derrida lookus
 ---
+
+Kultuurimaastiku antropogeoloogilised kihistused ei muutu hoomatavaks päevapealt, lisaks tuleb ikka ja jälle (kuni dharmaratas keerleb) tegeleda mõtteleidude kartograafilise viimistlemisega. Nii on lood ka meie internetifolkloori tagasihaardelise analüüsiga, mida käesolev kirjutis katsubki teha.
+
+Noorteühiskonna mitmekihilist süvaolemust lahti kooriv videolõik "Mis sul viga on" on ontoloogilises mõttes monumentaalse tähtsusega.
+Enamgi, moodsa religiooniantropoloogia kombinatoorse metodoloogia seisukohast on tegu virtuoosliku osalusvaatluse sooritusega, kus situatsioon asetatakse vaataja ette nagu sajandeid ja sajandeid arusaamatu järjekindlusega lehkav jänesepabul, mille päritolu kohta on teada vaid käputäis luiskelugusid, aga mitte ühtegi usutavat teaduslikku seletust.
+
 Videolõigu vaataja vakatub väljendusrikkuste tulvas, noorte esmapilgul totter dialoog saab psühhoanalüütiliselt (Lacani mõttes) mõtestatult avara tähendusmaastiku, üks keelemäng ajab teist taga ja viimaks tuleb meil üllatuslikult nentida asetleidnud rituaalkäitumise kõrgsemiootilist olemust.
 Meil ei ole vaja dekonstrueerida konflikti moraalifilosoofilist fenomenaalsust, see annaks vaid pindstruktuurilisi fragmente. Tuleb jätta kõrvale tõeväärtuslikud oletused: kvantfüüsika tõdemustele toetudes tapaksime me lihtsalt veelkord juba liminaalsesse sfääri libisenud Schrödingeri kassi.
 
