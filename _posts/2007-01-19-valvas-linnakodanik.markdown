@@ -18,6 +18,6 @@ vaadates meditatiivselt õõtsumas võis näha. Aknani kostus laste elevil kädi
 
 „Isa, palun-palun ütle, milline on maailma kõige ilusam puu!?” päris laps ja tema silmad olid nuturõngastes. Isa oli natuke tõsinenud, ta vaatas nüüd tähelepanelikumalt oma poega, kes ei uskunud lihtsaid vastuseid.
 
-„Seesama ongi, see on kahtlemata kõige ilusam,” osutas isa poja rasvakriititega sooritatud soperdisele, millest kummatigi õhkus raamistamata mõistusest tulenevat harmooniat.
+„Seesama ongi, see on kahtlemata kõige ilusam,” osutas isa poja rasvakriitidega sooritatud soperdisele, millest kummatigi õhkus raamistamata mõistusest tulenevat harmooniat.
 
 See isa roostenukker, aga armastust täis silmapaar jäigi Grigori lapsepõlvemälestuste kohale, valgustava lambina.
