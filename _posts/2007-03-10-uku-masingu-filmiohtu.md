@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Uku Masingu filmiõhtu
+date: '2007-03-10T08:40:00.001-07:00'
+author: snaperski
+tags: miniatuur uku
 ---
 Konverentsisaalis oli tunda pühaduse kohalolekut.
 Rahvas püsis nihelemata toolidel, millede käsitugedest eenduvatel klappidel võis siin-seal märgata auravaid kohvitasse. Juhtumisi kingiti üksteisele vandeseltslaslikke pilguheiteid - vahest siiski veendumaks, et kõik asjaosalised on aupaklikult olukorrakohased. Ja tõesti, seda nad kahtlemata olid... vähemasti hetkeni, mil sissevalguva summa sabas märkasin tülgast kaksikolendit, Mari-Liisi.
