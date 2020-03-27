@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: Autobiograafilised episoodid
+date: '2005-08-04T08:40:00.001-07:00'
+author: snaperski
+tags: muda narva89 tarmoss
 ---
 1.
 Pean rääkima oma suhteliselt sisutu elu kõige painajalikumast nähtusest, mis on võtnud inimkuju -ja hääle. See on inimene, kes vaikimatult tuletab sulle meelde inimese kui sellise tühisust. Gümnaasiumipäevadest alates on Tarmossi nimeline tont inimnahas vaikselt aga visalt häirinud ja mürgitanud nii minu kui mu sõpruskonna elukulgu.
@@ -12,11 +16,11 @@ Loodan siiski sellest heitlusest deemoniga võitjana välja tulla.
 
 2.
 Päev oli kulgenud rahulikult reggea-rütmis. Inimesed mu vaateväljas libisesid kenasti oma igapäevast sissekulunud rada.
-Naudin hetke, peas kumiseb vaikne meloodia (John Holt-The tide is high), tühjendan oma pea muudest häirivatest mõtetest ja keskendun muusikale.
+Naudin hetke, peas kumiseb vaikne meloodia (*John Holt-The tide is high*), tühjendan oma pea muudest häirivatest mõtetest ja keskendun muusikale.
 Te ehk taipate, millist õudust ma tajusin, kui järgmisel hetkel kurnas minu silmnägemist kuri tont- Tarmoss, tuntud ka kui Tarmuhhin.
 Visuaalne hoop oli nii tugev, et mul oli tegemist jalul püsimisega. Varjasin kähku mapiga näo, kuid jäin hiljaks.
 “Tere, Raivo”, lausus Tarmuhhin ja sellega oli hävitav algus tehtud.
-“Suht..suht kiire on mul”, laususin mina,”füüsikahoones hakkab loeng”.
+“Suht..suht kiire on mul”, laususin mina, ”füüsikahoones hakkab loeng”.
 “Ma tean, muideks, meil on ühine tee. Tulin just sinu erialale üle.”
 Kusagil kuklataguses piirkonnas hakkas midagi surisema, see kandus varsti üle kehasse ja tipnes nüüd minu sõrmeotstes.
 Murdsin sisemisest vihast haaratuna oma sõrmi, need ragisesid häälekalt ja Tarmuhhini naeratus näos valgus laiali nagu naftalaik ookeanis.
@@ -47,7 +51,7 @@ Ja kui te olete kursis Murphy seadustega, siis mõistate, et on lausa kohustusli
 silmakoobastes peituvate vastikult säravate kerakestega.(Alati kui mul on tarvis sellele kurivõrgule jätta muljet, et ma vaatan talle sõbralikult silma, jälgin ma pingsalt tema lödisevaid silmavalgeid ja kujutan kangekaelselt ette nauditavat, samuti kergelt lödisevat jogurtit.) Niisiis, kohates Tarmuhhini pilku kangestub mu leidlik meel korraks ja pisut nupukam deemon ligineb mulle. Ta alustab vestlust minuga alati kõige hävitavamate sõnadega.Ka seekord.Ta ütles:
 “Ma ei usu isegi veel, aga mul on siiski häbi kui edukas ma olen”.
 Tema seekordne suuliigutus oli keerukam kui senised mõtteavaldused.Jäin korraks nende sõnade üle mõtlema, tehes ühtlasi oma elu suurima vea.Tarmuhhin kasutas ära minu lühiajalist viivitust ja lausus:
-“Tead, mängime mängu “Stop, mina olen vedur!””.
+**“Tead, mängime mängu “Stop, mina olen vedur!”.**
 Kui ta oli need sõnad välja ütelnud, tegelikult isegi sobiks öelda v ä l j a i t s i t a n u d, tabas mind kohutav mõttekramp ja sellest põhjustatud peavalu ning ma jooksin metsikult karjudes minema.
 
 5.
