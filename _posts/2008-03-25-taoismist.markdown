@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hakkab pihta
+title: Taoismist ja mõnda
 date: '2008-03-25T08:40:00.001-07:00'
 author: snaperski
 tags: taoism laozi zhuangzi puupakk
