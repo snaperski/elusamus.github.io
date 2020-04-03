@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2020-04-03 08:10:45 GMT
+title: "nyyd ei ela enam mina, vaid mitokondrid minus"
+---
 silmad lahti, jalga dressid
 ja kohvitilgaga end virgeks laen
 üks luuletus must tulistvalu välja pressib
