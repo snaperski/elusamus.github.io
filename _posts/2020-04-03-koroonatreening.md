@@ -9,15 +9,15 @@ ja kohvitilgaga end virgeks laen
 üks luuletus must tulistvalu välja pressib  
 kui kotkapilgult iseoma 
 joosta vemmeldavat keha kaen  
-üllalt taandun, vaid pilveservalt  
+üllalt taandun, vaid pilve<servalt  
 pilkupidi allapoole turritan  
 ja üha kuulen, salamisi-õrnalt  
-kuis kondimootor värsijalgu vurritab  
+kuis vudivärten värsijalgu vurritab  
 küllalt, maandun!  
 ning tempo tõuseb, hing lõõtsutades  
-end vastu kopsunahka nüpeldab  
+vastu kopsunahka nüpeldab  
 ja keha õlgu õõtsutades  
-lõpukilomeetreid lõikudesse tükeldab  
+lõpuverstu lõikudesse tükeldab  
 trahh!  
 nüüd andke kähku vein, mu käes on korgitser...  
 ah!  
