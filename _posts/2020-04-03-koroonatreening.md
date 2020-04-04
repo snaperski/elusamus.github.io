@@ -13,7 +13,7 @@ joosta vemmeldavat keha kaen
 pilkupidi allapoole turritan  
 ja üha kuulen, salamisi-õrnalt  
 kuis kondimootor värsijalgu vurritab  
-küllalt, maandun!
+küllalt, maandun!  
 ning tempo tõuseb, hing lõõtsutades  
 end vastu kopsunahka nüpeldab  
 ja keha õlgu õõtsutades  
