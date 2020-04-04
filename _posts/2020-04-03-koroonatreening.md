@@ -9,7 +9,7 @@ ja kohvitilgaga end virgeks laen
 üks luuletus must tulistvalu välja pressib  
 kui kotkapilgult iseoma 
 joosta vemmeldavat keha kaen  
-üllalt taandun, vaid pilve<servalt  
+üllalt taandun, vaid pilveservalt  
 pilkupidi allapoole turritan  
 ja üha kuulen, salamisi-õrnalt  
 kuis vudivärten värsijalgu vurritab  
@@ -19,6 +19,5 @@ vastu kopsunahka nüpeldab
 ja keha õlgu õõtsutades  
 lõpuverstu lõikudesse tükeldab  
 trahh!  
-nüüd andke kähku vein, mu käes on korgitser...  
-ah!  
-veel viimne trohheus must ennast välja urgitseb  
+ah, andke kähku vein, mu käes on korgitser...    
+veel viimne trohheus must välja urgitseb  
