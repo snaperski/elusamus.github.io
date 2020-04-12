@@ -31,7 +31,7 @@ Meiegi pole selle eest kaitstud; mingil hetkel võib põhimõttetu inimese sisek
 
 <p>On sõnastatud, et kannatus tekib kui illusioonid raksatavad vastu tegelikkuse seina. Ka maratonijooksja sõnavaras on “sein” hästi tuntud ja ühtaegu tundmata fenomen. Seda võiks võtta kui ürgset kangelase arhetüüpset katsumust, milles pannakse proovile su senine materjal… võib-olla isegi murtakse tükkideks, sulatatakse ja sepistatakse uueks. Teatud mõttes šamanistlike sugemetega transformatsioon, mille käigus nakatatakse sind kehategelikkusega, millest linnainimesel on muidu vaid udune aimdus. </p>
 
-<p><b><h4>Sirbi lugeja kätte satub Jooksja ajakir</h4>i</b></p>
+<p><b><h4>Sirbi lugeja kätte satub Jooksja ajakiri</h4></b></p>
 
 <p><i>“Aitab mulle nendest jooksulõustadest, luidrate põsesarnadega olemisunustuses rähklejatest. Mõistan ise omal käel ängi tunda, aga need… need kidurad kujud viskavad mulle nina pihta, et ma siga ikka veel põrmus püherdan. Muidugi peaksin ennast maha tapma, aga mitte veel. Võib-olla juba homme!”  <br/>
 Lonks punast veini leevendas leeki, kuid midagi häirivat jäi ka maitsemeelele pidama - vein oleks kui vihapiksest käärima löönud. Korraks hirnatas Meedo omaenese arutu ägeduse peale ja viskas seejärel pilgu lauale, kus eliitse literatuuri seas lebas vana Jooksja ajakiri. Ta oli seda äsja lehitsenud, tükati lugenudki ning vastikustundest olid neerupealised perutama hakanud. Kogu selle saasta kaanetas kinni pilt peaministrist, kes kandis ärritavpunast jooksusärki, et oma erakonnakaaslase algatatud jooksukarnevali reklaamida. <br/>
