@@ -14,6 +14,8 @@ Siin om kõik on sassi läinud, ei mingit rituaalset keha või koha puhastamist,
 *vajrasattva* 100-silbilist mantrat ei sõnu ma üksnes omamisi, vaid mantrapomin kriiskub männimetsas lipates hooti 
 pool-iseeneslikeks hüüatusteks. [HA HA HA HA HO!](https://youtu.be/tw8SJGrt4mk?t=58) karjatan ma ja võtan järgmise kurvi, mille tagant paistab metsavaikust otsiv kepikõndija. Meie pilgud ei kohtu.
 
-Polegi vististi palju aega sellelaadse neuroosini, mil mõned argisemad sundmõtted või tähendusetud vormelid nagu "kas oleme inimesed? - jaa!" või "jätku leiba - jätku tarvis!" jooksuteadvusesse end istutavad ja jaburust kruvides pika jooksuotse lõpuni pähe tuikama jäävad. Siit - kui tsiteerida klassikuid ehk vendasid Strugatseid raamatust "Miljard aastat enne maailmalõppu" - jäävad mulle inimühiskonnas kõndimiseks vaid mahajäetud ja kõrvalised rajad, kus Nietzsche ja Kristus lepitamatult minus amokki jooksevad. 
+Polegi vististi palju aega sellelaadse neuroosini, mil mõned argisemad sundmõtted või tähendusetud vormelid nagu "kas oleme inimesed? - jaa!" või "jätku leiba - jätku tarvis!" jooksuteadvusesse end istutavad ja jaburust kruvides pika jooksuotsa lõpuni pähe tuikama jäävad. Siit - kui tsiteerida klassikuid ehk vendasid Strugatseid raamatust "Miljard aastat enne maailmalõppu" - jäävad mulle inimühiskonnas kõndimiseks vaid mahajäetud ja kõrvalised rajad, kus Nietzsche ja Kristus lepitamatult minus amokki jooksevad. 
+
+Aga arhailisemat sugrilikkust emadepäevaks: *vana naise mõttekäigud on tiibsad, nad käivad kõrgelt ja neis on ulatust, kuid nende väljaütlemiseks pole veel loodud sõnu...* (N. Baturin "Noor jää")
 
 
