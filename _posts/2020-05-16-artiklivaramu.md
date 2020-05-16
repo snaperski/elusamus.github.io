@@ -9,6 +9,7 @@ Kuidas oleks elada riigis, kus avalikku teavet ei sünnitata mitte riigipalatite
 Kodanikkond poleks siin pelgaks ämmaemandaks, kes vastsündinu esimeste hingetõmmete ja liigutuste uudishimulikuks tunnistajaks saab olla, vaid
 aktiivseks kaasakõnelejaks teabe elukaarel, kus kvaliteetseks teabeks kasvamise konarusi saavad siluda kõik, kellel selleks silma. _Kus viga näed laita, seal tule ja aita!_ viisil koosloome on sellisena üks artiklivaramu pakutavatest võimalustest, mille potentsiaal - veel alles pakitsevas olekus, - 
 õide puhkemiseks riigikehandi moodustava kodanik-kloroplastide päikeseküllast sekkumislusti vajab. 
+
 Mõeldagu vaid, et seaduspügalatesse ja rakendusaktidesse saaks asjalikul viisil ettepanekuid teha nüüd mitte päris igaüks, vaid see, kes tõendatavasti selleks kompetentsi ja volitust omab?
 Ja ettepanekud ise laotuksid kommentaariumina silme ees lahti selgemalgi viisil kui Talmudi kommentaarid Toorale.
 
