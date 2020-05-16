@@ -22,6 +22,6 @@ Artiklivaramu hakkaks olema avateabe põhjatu mõisasahver, millest nii [bürokr
 
 Mis siis konkreetsemalt-tehniliselt on see artiklivaramu, mis ühest otsast toitub inimeste ja krattide tööpanustest ja teisest otsast sisustab sahvri küpsete teabepaladega?
 
-- Git protokoll, mille introvertne Linus Torvalds leiutas selleks, et [tõhusalt kollaboreeruda koodiloojatega, kelledega eelistas samaaegselt distantsi hoida](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en); korraldab nii teabe versioneerimist kui andmevahetust
+- [Git](https://en.wikipedia.org/wiki/Git) protokoll, mille introvertne Linus Torvalds leiutas selleks, et [tõhusalt kollaboreeruda koodiloojatega, kelledega eelistas samaaegselt distantsi hoida](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en); korraldab nii teabe versioneerimist kui andmevahetust
 - [GitLab](https://about.gitlab.com/) - GitHubi sarnane koodihoidla, mida artiklivaramu kasutab sisuhoidjana ja kus nn koodi ülevaatuste asemel tehakse sisu ülevaatusi; suikuva võimekusena pürib ka aktiivseks nn _content delivery_ platvormiks, kus sisu tüüritakse edasi tema avaldamisekohtadesse
 - nn [*headless CMS*](https://en.wikipedia.org/wiki/Headless_content_management_system) ehk sisuhaldus, millel on pigemini jalad all kui nägu ees - sisupeale veebinäo külgepanek saab seetõttu olema nipsust väljavahetatav ajastu vaimu kandev kunstnikutöö, mitte kivisse raiutud skulptuur (kummatigi koodilehka evitav, roiskuv taies).
