@@ -23,4 +23,4 @@ Mis siis konkreetsemalt-tehniliselt on see artiklivaramu, mis hakkab toituma nii
 
 - Git protokoll, mille introvertne Linus Torvalds leiutas selleks, et[tõhusalt kollaboreeruda koodiloojatega, kelledega eelistas samaaegselt distantsi hoida](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=en); korraldab nii teabe versioneerimist kui andmevahetust
 - [GitLab](https://about.gitlab.com/) - GitHubi sarnane koodihoidla, mida artiklivaramu kasutab sisuhoidjana ja kus nn koodi ülevaatuste asemel tehakse sisu ülevaatusi; suikuva võimekusena pürib ka aktiivseks nn _content delivery_ platvormiks, kus sisu tüüritakse edasi tema avaldamisekohtadesse
-- nn _headless CMS_ ehk sisuhaldus, millel on pigemini jalad all kui nägu ees - sisule pea külge panek saab seetõttu olema ennemini nipsust väljavahetatav kunstnikutöö kui et kivisse raiutud taies.
+- nn _headless CMS_ ehk sisuhaldus, millel on pigemini jalad all kui nägu ees - sisule pea külge panek saab seetõttu olema nipsust väljavahetatav ajalik kunstnikutöö kui et kivisse raiutud (ent paradoksaalselt roiskuv) taies.
