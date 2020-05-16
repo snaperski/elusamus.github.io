@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artiklivaramuga
+title: Artiklivaramu
 date: '2020-05-16T08:40:00.001-07:00'
 tags: artiklivaramu
 published: true
