@@ -1,21 +1,22 @@
 ## jooksukevad
-mahud maha
-tempo peale
-kopsud kokku
-syda kurku
-rinnaku kui lahti lõõtsutan
-ja avanengi, kurjale kui heale
- 
-puusad ette
-silmad maha
-pöiad nõtkeks
-reied reipaks 
-juurikail kui tantsin-õõtsutan
-ja hüppan, kukkuda ju taha
+<i>
+mahud maha<br/>
+tempo peale<br/>
+pöiad nõtkeks<br/>
+reied reipaks<br/> 
+kopsud kokku<br/>
+syda kurku<br/>
+puusad ette<br/>
+silmad maha<br/>
+juurikail kui tantsin-õõtsutan<br/>
+hüppan, kukkuda ju taha<br/>
+rinnaku siis lahti lõõtsutan<br/>
+lükkan, kaamos kaugele jääb maha<br/>
 
-tõmban hinge
-püsin püsti
-tuksun üleni
-ei venita
-varvas nurmenukkudega mängiskleb
-ja tursub, kuusevõrsetesse genitaal 
+tõmban hinge<br/>
+püsin püsti<br/>
+tuksun üleni<br/>
+ei venita<br/>
+varvas nurmenukkudega lustib<br/>
+tursub kuusevõrsetesse genitaal<br/> 
+ </i>
