@@ -17,7 +17,7 @@ juurikail kui tantsin-õõtsutan<br/>
 hüppan, kukkuda ju taha<br/>
 rinnaku siis lahti lõõtsutan<br/>
 lükkan, kaamos kaugele jääb maha<br/>
-
+<br/>
 tõmban hinge<br/>
 püsin püsti<br/>
 tuksun üleni<br/>
