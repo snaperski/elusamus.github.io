@@ -1,3 +1,8 @@
+---
+layout: post
+title: jooksukevad
+tags: avanemine, jooksukevad, nietzsche
+---
 ## jooksukevad
 <i>
 mahud maha<br/>
