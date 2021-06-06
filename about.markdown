@@ -3,8 +3,6 @@ layout: page
 title: Meta
 permalink: /about/
 ---
-## Millest ma jooksen?
-
 Ärkan üles. Keel peksleb suukoopas kaootilistes spasmides. Võtan kinni ja lõikan ära. Siis vaatan keeletõelust näppude vahel ja mõtlen: mida veel on mul kui inimesel jäänud öelda inimestele? Ilmselt suurt ei midagi. Võtan siiski keele näppude vahelt ja hammaste tagant välja ning: AUMMMMM! Ehmun isegi, kuidas vibratsioon penetreerub kõikjale ja kõigini. Olen ommistanud instrumendi, millega päevade lõpuni mängida; otsekui Krišna sõrmed flöödil liiguvad mu jalad, kärmelt ja tasa-tasa.
 
 ### Mina olen hea karjane
@@ -30,6 +28,6 @@ Aga jääb ikkagi see: mina tahan! Jalad haarduvad ette kui jooksen mäkke. Lõ�
 Olen Tõe-näoline. Tõenäosuslainena määrdun metsaradaldele männiokaste kohale, kus hargnen sinna-tänna, ühtaegu liivastele tõusunukkidele ja nätskemale pinnasele. Alles asfaldile tagasi jõudes konkretiseerun metronoomiliseks plaksuvaks rütmiks, monotoonseks siinussignaaliks, mis teised sagedused kaotand. 180 sammu minutis, 3 sammu sekundis, 3 Hz. Metsas olin kui püssipauk, mis kõik klaverikeeled korraga kõlama paneb, minusse mahtusid miljonid hääled. Asfalt ajab ka asja ära, vähemasti olen liikvel ja teel eikuhugi.
 Et olen liikumatu liigutaja armust jumalanäoline, näen kohemaid läbi need fraktaalsed korduvused kui neid sünnitan - kapillaaride hargnemised seal, kus lihasrakud neid eneste külge keelitavad ja bronhitorukeste rägastik, mis praanat laiali kannab. Kehas saab kokku imginaarne ja reaalne, seda meenutamaks uurin ikka ja jälle Mandelbroti superfraktalit, kes õigupoolest on Ganesha ise. Sellest ma jooksengi. 
 
-Tulge, jookske... sest minu rist on hea ja minu koorem on kerge. 
+Tulge, jookske... sest minu rist on hea ja minu koorem on kerge.
 
 <img src="/assets/images/raivo.jpg" alt="">
