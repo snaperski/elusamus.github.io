@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Millest ma jooksen?
 
-Ärkan üles. Keel peksleb suukoopas kaootilistes spasmides. Võtan kinni ja lõikan ära. Siis vaatan keeletõelust näppude vahel ja mõtlen: mida veel on mul kui inimesel jäänud öelda inimestele? Ilmselt suurt ei midagi. Võtan siiski keele näppude vahelt ja hammaste tagant välja ning: AUMMMMM! Ehmun isegi, kuidas vibratsioon penetreerub kõikjale ja kõigini. Olen ommistanud instrumendi, millega südamesse jõuda; südamel on aga jalad all.
+Ärkan üles. Keel peksleb suukoopas kaootilistes spasmides. Võtan kinni ja lõikan ära. Siis vaatan keeletõelust näppude vahel ja mõtlen: mida veel on mul kui inimesel jäänud öelda inimestele? Ilmselt suurt ei midagi. Võtan siiski keele näppude vahelt ja hammaste tagant välja ning: AUMMMMM! Ehmun isegi, kuidas vibratsioon penetreerub kõikjale ja kõigini. Olen ommistanud instrumendi, millega päevade lõpuni mängida; otsekui Krišna sõrmed flöödil liiguvad mu jalad, kärmelt ja tasa-tasa.
 
 ### Mina olen hea karjane
 
