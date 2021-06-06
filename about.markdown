@@ -29,5 +29,3 @@ Olen Tõe-näoline. Tõenäosuslainena määrdun metsaradaldele männiokaste koh
 Et olen liikumatu liigutaja armust jumalanäoline, näen kohemaid läbi need fraktaalsed korduvused kui neid sünnitan - kapillaaride hargnemised seal, kus lihasrakud neid eneste külge keelitavad ja bronhitorukeste rägastik, mis praanat laiali kannab. Kehas saab kokku imginaarne ja reaalne, seda meenutamaks uurin ikka ja jälle Mandelbroti superfraktalit, kes õigupoolest on Ganesha ise. Sellest ma jooksengi. 
 
 Tulge, jookske... sest minu rist on hea ja minu koorem on kerge.
-
-<img src="/assets/images/raivo.jpg" alt="">
