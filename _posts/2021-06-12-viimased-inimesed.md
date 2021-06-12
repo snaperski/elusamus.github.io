@@ -27,6 +27,10 @@ ja tullagi enam ei yles?<br/>
 ärevil ajul ajatuks ajuma<br/>
 puhkama pyhima syles<br/>
 <br/>
-vaim pudipõlle taha nõtrub, rühib rappa<br/>
-tänavatel kogu liha lappab<br/>
+/meid jooksutatakse, ma jooksen/<br/>
+<br/>
+aega pole, jooksusammul loojangusse kappan<br/>
+vaim pudipõlle taha nõtrub<br/>
+tänavatel, pilgud pihus<br/>
+kogu liha lappab<br/>
 </i>
