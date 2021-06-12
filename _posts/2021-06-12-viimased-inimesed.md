@@ -27,6 +27,6 @@ ja tullagi enam ei yles?<br/>
 ärevil ajul ajatuks ajuma<br/>
 puhkama pyhima syles<br/>
 <br/>
-vaim pudipõlle taha nõtrub, rühib rappa<br/>  
+vaim pudipõlle taha nõtrub, rühib rappa<br/>
 tänavatel kogu liha lappab<br/>
 </i>
