@@ -17,13 +17,16 @@ kuid väljun - nii virgelt!<br/>
 <br/>
 isu on hea, ju maitsen nii hästi<br/>
 ma rammestunud kuhi bitte<br/>
-võeh, vaadake! -  kogu liha lappab<br/>
-a e-tiiger magab (mina mitte)<br/>
+koon kenasti kaetud, nagu kästi <br/>
+e-tiiger magab, mina mitte<br/>
 <br/>
 /meid ujutatakse, ma upun/<br/>
 <br/>
-kyllalt -  põhja peaks vajuma!<br/>
-ja tullagi ei enam yles<br/>
+kyllalt -  kas põhja peaks vajuma?<br/>
+ja tullagi enam ei yles?<br/>
 ärevil ajul ajatuks ajuma<br/>
 puhkama pyhima syles<br/>
+<br/>
+vaim pudipõlle taha nõtrub, rühib rappa<br/>  
+tänavatel kogu liha lappab<br/>
 </i>
