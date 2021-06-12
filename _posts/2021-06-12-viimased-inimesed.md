@@ -29,7 +29,7 @@ puhkama pyhima syles<br/>
 <br/>
 /meid jooksutatakse, ma jooksen/<br/>
 <br/>
-aega pole, jooksusammul loojangusse kappan<br/>
+sellekski aega pole, loojangusse kappan<br/>
 vaim pudipõlle taha nõtrub<br/>
 tänavatel, pilgud pihus<br/>
 kogu liha lappab<br/>
