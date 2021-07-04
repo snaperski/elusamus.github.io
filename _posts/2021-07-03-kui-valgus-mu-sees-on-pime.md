@@ -1,4 +1,10 @@
-kui valgus mu sees on pime
+---
+layout: post
+title: kui valgus mu sees on pime
+date: '2021-07-04T08:40:00.001-07:00'
+author: snaperski
+---
+**kui valgus mu sees on pime**
 ```
 midagi ei näe, kui pime!
 helgust pole loota
