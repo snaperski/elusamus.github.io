@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 title: "Palve Krišnale"
-date: 2021-07-10
+date: 2021-07-10 17:45:15 GMT
 ---
 <pre>
 oh olla tahaks
