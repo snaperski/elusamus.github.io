@@ -16,7 +16,7 @@ et ära tahaks
 vist Sinu sisse
 tähisesse kosmosesse
 
-just joosta tahaks
+just, joosta tahaks!
 nyyd tean kyll kuhu
 äkki mahun sulle suhu?
 </pre>
