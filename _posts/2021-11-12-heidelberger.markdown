@@ -30,3 +30,5 @@ Kas peaksin siis imestama, et Penrose ja Hameroff ajurakkude mikrotuubuleid kvan
 Tegin Heidelbergi saabumise järgsel päeval jooksutiiru Odenwaldi mägistel metsaradadel ja lõpuks langesin Klosterhofi pruulikoja kaudu alla langedes taas Neckari jõe äärde. 
 Sörgin ka üle kuulsa Alte Brücke silla, mis märksa staatilisem looming võrreldes mikrotuubulitega. 
 Võin siit läbi joostes kujutleda küll, kuidas sillakivid ise mu jalataldadesse nakkuvad, anorgaaniliselt kadestades või hoopis kannustades tõtlikku looma. Nii võis olla küll, jah - nii oligi! Mõtlen hiljem, et see ju väga-väga geo-loogiline, et kividki iial päriselt paigal ei püsida taha.
+
+
