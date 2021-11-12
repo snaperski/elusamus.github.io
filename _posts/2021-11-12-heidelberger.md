@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heidelbergis
-date: '2021-11-12T08:40:00.001-07:00'
+date: '2021-11-12 18:40:00 GMT'
 author: snaperski
 tags: embl heidelberg
 ---
@@ -14,7 +14,7 @@ Tulise jooksukire äkiline kadumine kesk kaunist jooksusuve. Koroonajastu oma pe
 Sõbra enesetapp. Tasapisi üha tigestusin, tajudes võimetust oma sügavamat olemust pingestunud psüühest lahutada.
 Muidugi oli eelnev võrdlemisi tühiste kannatusekeste nimekiri, aga ettelaotud rööbastes võrdlemisi hüplikult edasi logistav elurong tahab kas maha hüppamist või kindlamat tüürimist.  
 
-Ent juhtumisi leitud ja minu paatunud südame helisema pannud töökuulutus ja kandideerimisele järgnenud töövestluste voorude kulminatsioon võiduka finišisirgega vajaliku pöördemomendi tekitas. 
+Juhtumisi leitud ja minu paatunud südame helisema pannud töökuulutus ning kandideerimisele järgnenud töövestluste voorudele saabus kulminatsioon võiduka finišisirgega. 
 Lendamaks siis kas ergastunud inim-elektronina kõrgema energiatasemega eluorbiidile või lagunemaks siis juba lõplikult kellekski teiseks.
  
 Mis siis muud kui Heidelbergi inimeseks saama ehk EMBL-i molekulaarbioloogidele IT-süsteemidesse soomeugrilikku hägusloogikat tooma. 
@@ -31,6 +31,6 @@ Tegin Heidelbergi saabumise järgsel päeval jooksutiiru Odenwaldi mägistel met
 Sörgin ka üle kuulsa Alte Brücke silla, mis märksa staatilisem looming võrreldes mikrotuubulitega. 
 Võin siit läbi joostes kujutleda küll, kuidas sillakivid ise mu jalataldadesse nakkuvad, anorgaaniliselt kadestades või hoopis kannustades tõtlikku looma. Nii võis olla küll, jah - nii oligi! Mõtlen hiljem, et see ju väga-väga geo-loogiline, et kividki iial päriselt paigal ei püsida taha.
 
-Valus on see, et mina läksin ees ja alles mitmete kuude pärast tuleb pere järgi. Esimene nädal oli raske. Kohe on isadepäev ja koju jäänud vahvast rotikolmikust heitis ET hinge. 
+Valus on see, et mina läksin ees ja alles mitmete kuude pärast tuleb pere järgi. Esimene nädal oli raske, igatsustunne on suur. Kohe on isadepäev ja koju jäänud vahvast rottide kolmikust heitis ET hinge. 
 
 
