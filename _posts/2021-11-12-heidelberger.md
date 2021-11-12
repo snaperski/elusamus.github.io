@@ -18,9 +18,9 @@ Ent juhtumisi leitud ja minu paatunud südame helisema pannud töökuulutus ja k
 Lendamaks siis kas ergastunud inim-elektronina kõrgema energiatasemega eluorbiidile või lagunemaks siis juba lõplikult kellekski teiseks.
  
 Mis siis muud kui Heidelbergi inimeseks saama ehk EMBL-i molekulaarbioloogidele IT-süsteemidesse soomeugrilikku hägusloogikat tooma. 
-Valus on muidugi see, et mina lähen ees ja alles mitmete kuude pärast tuleb pere järgi. 
 
-**Mikrotuubulid*
+
+**Mikrotuubulid**
 
 Viskan arhitekti pilgu sissepoole ja näen, kuidas liikvel keharakkudes mikrotuubulitest torud ühest otsast tellinguid loovad ja teisest hävitavad - nagu India tänavaäärsetel, kus majad on alatises ehitusseisundis - ja kuidas kunagi lödisevaks geeliks peetud rakuplasmas moodustuvad struktuurid vastavalt välistele tõugetele, tõmmetele, keeristele, mille pärisnimeks on elu. 
 Selles elumeres peavad mikrotuubulid rakkudevahelist kontakt-tantsu, kus voogavad kehakuju muutused on vilka polüloogi tulemus. 
@@ -30,5 +30,7 @@ Kas peaksin siis imestama, et Penrose ja Hameroff ajurakkude mikrotuubuleid kvan
 Tegin Heidelbergi saabumise järgsel päeval jooksutiiru Odenwaldi mägistel metsaradadel ja lõpuks langesin Klosterhofi pruulikoja kaudu alla langedes taas Neckari jõe äärde. 
 Sörgin ka üle kuulsa Alte Brücke silla, mis märksa staatilisem looming võrreldes mikrotuubulitega. 
 Võin siit läbi joostes kujutleda küll, kuidas sillakivid ise mu jalataldadesse nakkuvad, anorgaaniliselt kadestades või hoopis kannustades tõtlikku looma. Nii võis olla küll, jah - nii oligi! Mõtlen hiljem, et see ju väga-väga geo-loogiline, et kividki iial päriselt paigal ei püsida taha.
+
+Valus on see, et mina läksin ees ja alles mitmete kuude pärast tuleb pere järgi. Esimene nädal oli raske. Kohe on isadepäev ja koju jäänud vahvast rotikolmikust heitis ET hinge. 
 
 
