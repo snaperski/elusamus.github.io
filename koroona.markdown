@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mitokondrite hiilgus"
+title:  "Koroona"
 date:   2022-01-25 21:24:14 +0200
 categories: koroona elusamus
 ---
