@@ -49,7 +49,7 @@ Et nõiaprotsesse juba mainitud, tundub asjakohane tsiteerida Juri Lotmani kuuls
 Nii juhtuski, et antivakserist vaenlase kuju kõrgus ähvardava ohuna õigesti käituvate kodanike üle. Kiiresti väljuti tegeliku vajaduse pinnalt vaktsineerida esmajoones riskigruppe - mida vähem “lekkiv” vaktsiin muteeruva viiruse olukorras töötas, seda rohkem süüdistati neid, kes erinevatel põhjustel ennast süstida ei lasknud.
 
 
-### Korjustel pole lõppu, korjuste otsa komistatakse
+### Teadusfundamentalismi psühholoogia: credo quia absurdum est
 
 Enne viiruse kõigeväelise ilmutustarkuse juurde jõudmist, paar lõiku asjast endast ja esmalt Lotmani poolt mainitud ühiskonda haaravatest hirmuhoogudest. 
 Ghenti ülikooli professor Mattias Desmet on viidanud neljale põhitegurile, mis kovidjaalse nõiajahi on võimalikuks teinud: esiteks, on piisav hulk inimesi, kelledel pole reaalseid tähenduslikke sidemeid teistega; teiseks, puuduvad tähenduslikkust loovad elutehnikad üldse, eelkõige on valdav tehtava töö mõttetus; kolmandaks, õhus on palju määratlemata päritoluga ängi; neljandaks tunnevad paljudki - samamoodi suuresti ebamäärastel põhjustel, -  agressiivsusega segatud frustratsiooni.
@@ -90,7 +90,7 @@ Kuid see on mädaneva õuna nägusam külg, sest samaaegu ei tajuta, et koroonak
 Eneselohutuses korrutame praegugi ühislauluna mantrat “minu vabadus lõpeb seal, kus algab teise ninaots - kui see ikka maskiga kaetud on” ja loodame, et õigusriigivastane (mis peamine - inimlikkuse vastane) segregatsioon saab sellega lunastatud, sest “asi oli liiga kompleksne, mõtlemaks oma peaga ja ammugi petliku südamega, las vajalikud rehkendused teevad ära ekspertidest institutsioonid”.
 See on meie ajastut saatev müüt, üks vähestest järgi jäänutest üldse. Nimelt, et (meditsiini)teaduse ja (IT-)tehnoloogia koostöös poliitiliselt korraldatud tehnokraatlik ühiskond suudab kokku hoides loodusjõudude vastu kõik taas sirgeks teha. Ja et inimelu -ja ühiskonna põhiväärtuseid saab poliitiliste otsuste tegemisel arvesse võtta vaid sedavõrd, kuivõrd nad on mõõdetavad, vaid kvantifitseeritavate ühishüvede pinnalt. Kui laste ärajäänud naeratused loetakse AI poolt kokku või isolatsioonide lohutu üksindus saab enesetappudes mõõdetavaks, küllap kaldub lõpuks ka kurss, loodetavasti. Seni tuleb aga kuulekalt taanduda tagaistmele ja oodata käsklusi, kuhupoole vaadata. Kuhupoole sõit on - seda ei tasu veel küsidagi, vaevalt keegi üldse teab.   
 
-### Uus projekt: hingelooma äratundmine
+### Uus projekt: südametunnistuse delegeerimiselt hingelooma äratundmiseni
 
 Mälgu “Victoria projektis” ei osatud head vastust anda, miks tingimata oli vaja ookeanite ühendamine üldse ette võtta. “Sest me suudame seda,” võis loetust aimata tegelikku põhjust, sest kuidas tegelikult säärane ettevõtmine Maa kliimat mõjutab, polnud teadlastel aimu.
 Eks teadus tahab tegemist ja uued mRNA vaktsiinid saidki endale suurima mõeldava katselabori ning kahtlemata kulub selline kogemus uute ja ohtlikumate viiruste vastu võitlemisel ära.  Nüüdseks pole aga peavooluski enam kuulmatuna kõlav mõte, et viivuks võiks sekkumisillusioonis elav ja sageli iatrogeenne meditsiiniline entusiasm lavalt maha tulla ja loodusel ehk omikronil ja muudelgi tõenäoliselt deltast taltsamatel tüvedel lasta tõhusam kaitse peale saada, mitte üksnes advokeerida valangutena planeeritavaid tõhustusdoose.
