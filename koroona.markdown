@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Mitokondrite hiilgus"
+date:   2022-01-25 21:24:14 +0200
+categories: koroona elusamus
+---
+
 ## Koroonaviirus hingeloomaks 
 
 ### Autoviroloogiline tahavaade
@@ -91,4 +98,4 @@ Peame õppima kärmelt (sest uued kriisid on juba päral) endale ja teistele and
 Mis sest, et paljud targad mehed ja naised tegid instinktiivselt teadusaltarile viskudes ennast lolliks - andestagem lõpuks ka neile ja aidakem neil peeglisse vaadata. 
 
 Kas panna tööle eneseotsingumootorid ja rügada askeetliku tahtejõulisusega, saamaks üheskoos sisemaailmameistriteks? Vaid siis kannatab Maa meid kanda kui mõistame, et küsimus  “mida me peame tegema?” ei eelda mingitlaadi pöörast toimekust põlevast majast asjade päästmisel; meie evolutsioonilisest nišist on niigi saamas tupiktee ja üksnes radikaalne taandumine välisilma ressursside ekspluateerimisest saab tuua lepituse. 
-Kasvukõver tuleb lihtsalt vahelduseks sissepoole pöörata ja nautida vertikaalsust tema hingekõrgustes. Hing ja hingamine on tugevasti seotud ja ehk see ongi koroonaviiruse kui kultuurikriitiku kõige terasem torge: meie kultuur on läbinisti hinge mattev. Selmet üksteisele varju heita, tuleb võtta stressipall pihku ja  šamaanirännakule hinge tagasi tooma. 
+Kasvukõver tuleb lihtsalt vahelduseks sissepoole pöörata ja nautida vertikaalsust tema hingekõrgustes. Hing ja hingamine on tugevasti seotud ja ehk see ongi koroonaviiruse kui kultuurikriitiku kõige terasem torge: meie kultuur on läbinisti hinge mattev. Tuleb võtta koroonaviirusest stressipall pihku ja asuda šamaanirännakule - hinge tagasi tooma. 
