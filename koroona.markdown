@@ -13,14 +13,19 @@ Minu profaansed rännakud mikrobioloogia radadele algasid aastaid tagasi kui dok
 
 Läks aega mööda ja aastal 2019 õnnestus mul pärast vahvat Küprose jooksureisi  saada külge kummaline tõbi, mis lõpuks  mononukleoosina ära tunti. Toonane kehale kurnav aeg oli siiski põnev, oma väetisuse avastamise ja viirusega isikliku suhte loomise ning viraalse eneseteadlikkuse kujundamise periood, millest mõned toona kirjutatud read ka siin ära toon:
 
+
 <i>
 Viirused on mitmeti meie rakutuuma DNA-s nii evolutsiooniliselt inimliigi lõikes (inimgenoomist olevat 8-10% viiruste kingitud) kui üksiti konkreetse organismi juures päral. Seal näeme neid üldiselt parasiitidena, ehkki me ei mõista veel hinnata nende geenirikastuste heledamat külge, mida juba ka usinalt uuritakse. Iseäranis oleme retroviiruste rühma poolt vormitud (endogeensed retroviirused e ERV-d, mis on sageli vaigistatud olekus, kuid täidavad ka regulatiivseid rolle) ja eriti aktiivselt toodetakse viiruslikke proteiine embrüogeneesi ajal. 
-Üheks selliseks tuntumaks näiteks on platsenta moodustumusel võtmerolli mängiv viiruslikku päritolu proteiin Syncytin-1, mis korraldab toitainevahetust arenevale lootele ja võimaldab teda kaitsta ema immuunsüsteemi eest. Nii et nii imetajate vivipaaria kui inimeseks kujunemise eest võime ehk viirustele tänulikud olla. Mõned teadustööd viitavad võimalusele, et tüvirakkude säilumist täiskasvanud organismis võivad utsitada viiruslikud geenid - tüvirakud olnuvat viirustele lihtsalt tõhusamad sõidukid kõikjaleulatuvaks paljunemiseks.
+Üheks selliseks tuntumaks näiteks on platsenta moodustumusel võtmerolli mängiv viiruslikku päritolu proteiin Syncytin-1, mis korraldab toitainevahetust arenevale lootele ja võimaldab teda kaitsta ema immuunsüsteemi eest. Nii et nii imetajate vivipaaria kui inimeseks kujunemise eest võime ehk viirustele tänulikud olla. 
+Mõned teadustööd viitavad võimalusele, et tüvirakkude säilumist täiskasvanud organismis võivad utsitada viiruslikud geenid - tüvirakud olnuvat viirustele lihtsalt tõhusamad sõidukid kõikjaleulatuvaks paljunemiseks.
+  
 /../
+  
 Nakkus, mis EKRE tema praeguses juhtimisteravikus on, tuleb läbi põdeda hoolikalt, mitte hoo pealt. Selleks, et et naaseda inimesele tervisliku 10% viirusliku DNA osakaalule inimgenoomis (ligikaudu EKRE skoor eelmistel valimistel), pole suuremat tolku vastukultuurilisest agressioonist; antibiootikumid hoopiski viirustele ei mõju, ometigi lajatakse neid praegusel ajal laia spektriga. Ja siin pole vahet, kas Mutt tõsimeeli libestab tagantotsast sisse EKRE-t või niisutab Lobjakas kuulmekäikusid talumaks seda päris roosat ila.
 Kui lümfid on paistes, on mõistagi ebameeldiv neelata, aga hea teada, et immuunsüsteem juba toimetab, viirused on kättpidi taplustandrile tiritud.
 EBV on mõistagi lupsatand ennast juba meie B-lümfotsüütide DNA-sse ja sealt teda eluajal lahti ei kanguta, kuid säherdused geenid lõppeks langevad latentseteks - neil ei saa olema kehaterviku elukaarel püsi. Kui tervik hakkab nõrgenema (ultraliberaalseks kiskuvas inimkuhjas ei saa immuunsüsteem enam sotti, kelle suhtes oma-võõras kaitsetaktikat rakendada), reaktiveerub EBV e EKRE taas.
 </i>
+
 
 Toonane poliitmaastik ja viiruste maailm sattusid minu pähe kõrvuti küllap juhuslikult, nüüdsetes koroonalainetustes on viiruse ja poliitika suhe väljunud minu peast ja metafoorsusest ning saanud kollektiivseks kujundavaks jõuks. 
 Mis aga ülaltoodud lõikudest eelkõige kaasa võtmist väärib, pole mitte viiruste võimalikud poliitilised jalajäljed meie hingemaastikel ega ka mitte üksnes nende ambivalentne roll (inim)maailmas (misjuures kõige arvukamaid pisiolendeid ehk bakteriofaage tuleks ka mainida) üleüldse, vaid viirus kui poeetiline vahend meie ajastuvaimu lahtimuukimise tööriistakastis. 
