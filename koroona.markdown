@@ -6,6 +6,7 @@ categories: koroona elusamus
 ---
 
 ## Koroonaviirus hingeloomaks 
+<i>Ainult inimesest lähtudes levib korrapära tema ümber ta pilgu piirini - ja selle pilgu kaugemaleulatumisega ulatuvad kaugemale ka kord ja harmoonia. [...] tema varal tiirlevad päikesed neile kätte näidatud radadel.</i> (Johann Gottlieb Fichte)
 
 ### Autoviroloogiline tahavaade
 
