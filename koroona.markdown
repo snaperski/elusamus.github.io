@@ -100,7 +100,8 @@ Aga koroonapass ei taha kaduda nüüdki veel, ehkki tehakse ettevalmistusi iniml
 
 
 Tuleb muidugi mõista, et keskendumine “tegelikult adekvaatse strateegia” takkajärgi konstrueerimisele ei pruugi olla hetkel viljakas tegevussuund. Rahvusliku konstellatsiooniteraapia aeg, mil need valupunktid välja masseerida annab, saab saabuda mõnevõrra hiljem. 
-Sestap on turvalisem ja asisem liikuda planetaarsesse skaalasse. On korrutatud, aga kulub siingi ära: elurikkuse-elupaikade hävitamine inimese poolt on otseses seoses koroonaviiruse ja üldse sagenevate pandeemiate külaskäikudega. 
+
+Sestap on turvalisem ja asisem liikuda lõpetuseks planetaarse ko-immuunsuse (millise termini on prohvetlikult verminud Peter Sloterdijk rohkem kui kümnendike tagasi) skaalale. On korrutatud, aga kulub siingi ära: elurikkuse-elupaikade hävitamine inimese poolt on otseses seoses koroonaviiruse ja üldse sagenevate pandeemiate külaskäikudega. 
 Seletagu me seda endile jehoovalikus vihas (<i>“Vaata, ma tulen sulle kallale!”</i>) pool-mütoloogilise Gaia tegutsemisena ühe hoorava liigi korrale kutsumiseks või teaduslikumalt asjaolusid rehkendades, järeldused on sarnased ja nendest võrsuvas lootusetuses esitatud küsimus “Mida me peame tegema?” esitub kategoorilisemalt kui Kantil.
 
 Kui vaadata lootusrikkamalt meie mütoloogilisse teadvusse, siis inimese olukorda praeguses keskkonnakriisis võib nimetada üheks hiiglaslikuks kollektiivseks initsiatsiooniks, milles toimuv surmalähedase kogemuse pressing kutsub usutavasti esile radikaalsed muudatused, et bifurkeeruda (kui kasutada komplekssüsteemidest tuntud ja teaduslikumat kõnepruuki) uude inimolemise korda. Kasuks võib olla analoogmaagiline tunnetus, kus vihmametsade kui planeedi kopsude häving ei jäta meiegi kopse rahule: 
