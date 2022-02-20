@@ -14,9 +14,9 @@ Ainult inimesest lähtudes levib korrapära tema ümber ta pilgu piirini - ja se
 <br><br>
 Üks veider unenägu trügib reaalsuseks. Elaksime kui rroosiselavistelikus etenduses, kus lavastub tükk sellest, kuidas <i>kägistamise viirus mõjutab vägistamise kiirust</i> ja mille teises vaatuses <i>sepsis keksib ja peksab kepiga skepsist</i>. 
 <br>Oleme raskel ajal roidunult-turvaliselt tervemõistuslikud ja kanname lipukirja <i>KÕIK ÜHE ÜKSKÕIKSE EEST!</i>  Šamaanlikum pilk silmab ajastuvaimuhaigust ja selle lõppmängu: <i>kes soostub, see soostub.</i> 
-<br>
+<br><br>
 Sürjutan nüüd sürreaalse palangu ja võtan sotsiaalkultuurilise sepsise teemal kõneleda müüdilisema teadvuse kaudu. Kui analüütilise psühholoogia suuna rajaja C. G. Jung nägi omal ajal Hitleris skandinaavia jumaluse Wotani arhetüüpset kehastust, siis praeguselgi ajal tatsavad tumedad jõud varjuvallast lagedale, kuid tulevad nad paremalt või vasakult või kuskilt põhjast - veel on raske selgelt näha.   
-<br>  
+<br>
 Mitmed mõtteseosed hargnevad siin titaanideni. Meenutuseks: titaanide suurim vägi(valla)tegu olnuvat taevase isa Urnanose kastreerimine Kronose (kr k “aeg”) poolt, ajaliku võit ajatu üle. Tülikate tümitajatena oli nendega aga häda palju, kuid lõpuks õnnestus olümposlastel eesotsas Zeusiga kupatada nad Tartaruse sügavikku. 
 Mõnevõrra hiljem tegutsenud titaanipoja Prometheuse poolt inimestele kingitud tuli ehk tehnika on nüüdseks võimaldamas eksponentsiaalset ja otse Maad raputavat progressi.
 <br>
