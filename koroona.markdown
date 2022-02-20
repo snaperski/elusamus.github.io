@@ -6,8 +6,6 @@ categories: koroona elusamus
 ---
 
 ## Koroonaviirus hingeloomaks 
-<i>Ainult inimesest lähtudes levib korrapära tema ümber ta pilgu piirini - ja selle pilgu kaugemaleulatumisega ulatuvad kaugemale ka kord ja harmoonia. [...] tema varal tiirlevad päikesed neile kätte näidatud radadel.</i> (Johann Gottlieb Fichte)
-
 ### Autoviroloogiline tahavaade
 
 Minu profaansed rännakud mikrobioloogia radadele algasid aastaid tagasi kui doktorantuuris jooksmist kui vaimset praktikat uurides kaldusin totaalselt kõrvalradadele ja pistes pea J. Hoffmeyeri “Biosemiootika” kaudu mikrobioloogilise elu imepärasusse, päriselt sellest lummusest lahti ei saanudki. Edasi - jooksjale kohaselt, - keskendusin pärast fastsiat mitokondrite toimetamisele ja jõudsin vaimustuda ka mikrotuubulite nutikast iseorganiseeruvast ehitus-ja lammutustööst.  
