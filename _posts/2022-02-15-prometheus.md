@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nägemisini ja aitäh tule eest
+title: Nägemiseni ja aitäh tule eest
 date: '2022-02-15T08:40:00.001-07:00'
 author: elusamus
 tags: koroona prometheus tehnika
