@@ -1,8 +1,15 @@
+---
+layout: post
+title: Nägemisini ja aitäh tule eest
+date: '2022-02-15T08:40:00.001-07:00'
+author: elusamus
+tags: koroona prometheus tehnika
+---
 ### Nägemiseni, ja aitäh tule eest!
 <i>
 Ainult inimesest lähtudes levib korrapära tema ümber ta pilgu piirini - ja selle pilgu kaugemaleulatumisega ulatuvad kaugemale ka kord ja harmoonia. […] tema varal tiirlevad päikesed neile kätte näidatud radadel. </i>(Johann Gottlieb Fichte)
-<br><br>
-(attack.JPG)
+<br><br><br>
+<img src="../../../assets/images/attack.JPG"> 
 (kunstiline töötlus populaarse jaapani mangasarja “Attack on Titan” ainetel)
 <br><br>
 Üks veider unenägu trügib reaalsuseks. Elaksime kui rroosiselavistelikus etenduses, kus lavastub tükk sellest, kuidas <i>kägistamise viirus mõjutab vägistamise kiirust</i> ja mille teises vaatuses <i>sepsis keksib ja peksab kepiga skepsist</i>. 
